@@ -38,3 +38,28 @@ body {
 .navbar .navbar-nav a {
     font-weight: bold;
 }
+
+/* Counties */
+
+.counties {
+    margin-right: 100px;
+}
+
+.county-image {
+    border: solid 1px black;
+    height: 120px;
+    width: 120px;
+}
+
+/* Footer */
+
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
+
+.social-media-links {
+    padding-top: 10px;
+}
