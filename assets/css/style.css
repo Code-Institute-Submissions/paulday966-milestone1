@@ -33,6 +33,11 @@ body {
 
 .navbar .navbar-toggler {
     border: 1px solid black;
+    color: black;
+}
+
+.navbar .navbar-toggler-icon {
+    color: black;
 }
 
 .navbar .navbar-brand {
