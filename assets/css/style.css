@@ -21,7 +21,8 @@ body {
 }
 
 .navbar {
-    margin-bottom: 0;
+    margin-left: 0;
+    margin-bottom: 10px;
     border: 0;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.25);
@@ -48,7 +49,11 @@ body {
     font-weight: bold;
 }
 
+/* Images */
 
+.county-image {
+    margin-top: 70px;
+}
 
 /* Counties */
 
