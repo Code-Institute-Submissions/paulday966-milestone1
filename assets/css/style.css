@@ -92,10 +92,10 @@ footer {
     text-align: center;
     color: #fafafa;
     background: #8f8f8f;
-    transition: all 0.35s ease-in-out;
+    /*transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;*/
     padding-top: 10px;
 }
 
@@ -105,3 +105,11 @@ footer {
 
 /* Media Queries */
 
+@media(min-width: 992px) {
+    .center-form {
+        padding: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
+}
