@@ -1,130 +1,147 @@
-    <!DOCTYPE html>
-    <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width>, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Cafe Locator</title>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-            integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-            integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
-        </script>
-        <script src="https://kit.fontawesome.com/7c91a39110.js" crossorigin="anonymous"></script>
-        <link href="https://fonts.googleapis.com/css?family=Muli:200,300,400&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="assets/css/style.css" type="text/css">
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width>, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cafe Locator</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    </script>
+    <script src="https://kit.fontawesome.com/7c91a39110.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Muli:200,300,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+</head>
 
-    <body>
-    <div class="container-fluid navalert-container">
-        <div class="container-fluid alert-container">
-            <div class="row d-none d-sm-block">
-                <div class="col-12">
-                </div>
-            </div>
-        </div>
+<body>
+<div class="container-fluid navalert-container">
+    <div class="container-fluid alert-container">
+    <div class="row d-none d-sm-block">
+    <div class="col-12">
+    </div>
+    </div>
+    </div>
 
     <nav class="navbar navbar-dark navbar-expand-sm">
-                        <a href="/" class="navbar-brand">Cafe Locator</a>
-                        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="true" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span></button>
-                        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                            <ul class="navbar-nav mr-auto">
-                                <li class="active nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
-                                <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarNavDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Counties</a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href ="eastsussex-cafes.html">East Sussex</a>
-                                <a class="dropdown-item" href ="kent-cafes.html">Kent</a>
-                                <a class="dropdown-item" href ="surrey-cafes.html">Surrey</a>
-                            </div>
-                                </li>
-                            <li class="nav-item mr-2"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </nav>
-    </div>
+        <a href="/" class="navbar-brand">Cafe Locator</a>
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="true" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
+                <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarNavDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Counties</a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href ="eastsussex-cafes.html">East Sussex</a>
+            <a class="dropdown-item" href ="kent-cafes.html">Kent</a>
+            <a class="dropdown-item" href ="surrey-cafes.html">Surrey</a>
+        </div>
+                </li>
+                <li class="active nav-item mr-2"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
         
-    <section class="container-fluid counties">
-            <div class="row">
-                <div class="col-sm-4">
-                    <h5 class="contact-title">Contact Us</h5>
-                    <form>
-                        <h5 class="sign-up">Sign up for our newsletter</h5>
-                        <div class="form-group">
-                                <p class="signup-text">When you sign up to our newsletter you will receive monthly information about the coffee shops on our website.</p>
-                                <label for="yourname">Name</label>
-                                <input type="text" class="form-control" id="yourname" aria-describedby="yourname">
-                                <label for="exampleInputEmail1">Email address</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                        </div>
-                            <button type="submit" class="btn btn-primary">Submit</button>
-                            <button type="button" class="btn btn-secondary">Cancel</button>
-                    </form>
-                </div>
-            </div>
-            <div class="row">
-            <div class="col-sm-4">
-            <h5 class="county-title">Kent</h5>
-            <img src="assets/images/happy-coffee-6347.jpg" class="county-image">
-                <p class="county-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Interdum consectetur libero id faucibus nisl tincidunt eget. Sit amet cursus sit amet. Et magnis dis parturient montes nascetur ridiculus mus.</p>
-            </div>
-            </div>
-            <div class="row">
-            <div class="col-sm-4">
-            <h5 class="county-title">Surrey</h5>
-            <img src="assets/images/happy-coffee-6347.jpg" class="county-image">
-                <p class="county-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Interdum consectetur libero id faucibus nisl tincidunt eget. Sit amet cursus sit amet. Et magnis dis parturient montes nascetur ridiculus mus.</p>
-            </div>
-            </div>
-    </section>
-        <footer class="container-fluid">
-            <div id="footer-info" class="row">
-                <div class="col-sm-4">
-                    <h5 class="footer-heading">About</h5>
-                    <p class="inline-block">
-                        Read about the wonderful cafes in East Sussex, Kent and Surrey.
-                    </p>
-                </div>
-                <div class="col-sm-4">
-                    <h5 class="footer-heading">Social Media</h5>
-                    <ul class="list-inline social-media-links">
-                        <li class="list-inline-item">
-                            <a target="_blank" href="#">
-                                <i class="fab fa-facebook" aria-hidden="true"></i>
-                                <span class="sr-only">Facebook</span>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a target="_blank" href="#">
-                                <i class="fab fa-twitter" aria-hidden="true"></i>
-                                <span class="sr-only">Facebook</span>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a target="_blank" href="#">
-                                <i class="fab fa-instagram" aria-hidden="true"></i>
-                                <span class="sr-only">Facebook</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </footer>
-        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-            integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
-        </script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
-        </script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-            integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
-        </script>
-    </body>
+<section class="container-fluid counties">
+    <div class="row">
+        <div class="col-sm-4">
+        <h5 class="contact-title">Contact Us</h5>
+        <form>
+            <h5 class="sign-up">Sign up for our newsletter</h5>
+        <div class="form-group">
+            <p class="signup-text">When you sign up to our newsletter you will receive information every month about the coffee shops on our website.</p>
+            <label for="yourname">Name</label>
+            <input type="text" class="form-control" id="yourname" aria-describedby="yourname">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="button" class="btn btn-secondary">Cancel</button>
+        </form>
+        </div>
+    </div>
 
-    </html>
+<div class="row">
+    <div class="col-sm-4">
+        <p class="cafe-in-mind">Have a cafe in mind? Then please let us know by filling in the form below</p>
+        <p class="cafe-text">Please fill in as much as you can</p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-4">
+        <form>
+            <div class="form-group">
+                <label for="cafename">Cafe Name</label>
+                <input type="text" class="form-control" id="cafename" required="true" aria-describedby="cafename">
+                <label for="cafewebsite-address">Cafe website address</label>
+                <input type="text" class="form-control" id="cafewebsite-address" placeholder="example@domain.com" aria-describedby="cafewebsite-address">
+                <label for="address">Address</label>
+                <input type="text" class="form-control" id="address" aria-describedby="address">
+                <label for="city">City</label>
+                <input type="text" class="form-control" id="city" required="true" aria-describedby="city">
+                <label for="county">County</label>
+                <input type="text" class="form-control" id="county" required="true" aria-describedby="county">
+                <label for="postcode">Post code</label>
+                <input type="text" class="form-control" id="postcode" required="true" aria-describedby="postcode">
+            </div>
+            <div class="form-group">
+                <label for="comment">Do you have any additional information that would be useful?</label>
+                <textarea class="form-control" rows="6" id="comment"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="button" class="btn btn-secondary">Cancel</button>
+        </form>
+    </div>
+</div>
+
+</section>
+
+<footer class="container-fluid">
+    <div id="footer-info" class="row">
+    <div class="col-sm-4">
+        <h5 class="footer-heading">About</h5>
+        <p class="inline-block">Read about the wonderful cafes in East Sussex, Kent and Surrey.</p>
+    </div>
+    <div class="col-sm-4">
+        <h5 class="footer-heading">Social Media</h5>
+        <ul class="list-inline social-media-links">
+            <li class="list-inline-item">
+                <a target="_blank" href="#">
+                    <i class="fab fa-facebook" aria-hidden="true"></i>
+                    <span class="sr-only">Facebook</span>
+                </a>
+            </li>
+            <li class="list-inline-item">
+                <a target="_blank" href="#">
+                    <i class="fab fa-twitter" aria-hidden="true"></i>
+                    <span class="sr-only">Facebook</span>
+                </a>
+            </li>
+            <li class="list-inline-item">
+                <a target="_blank" href="#">
+                    <i class="fab fa-instagram" aria-hidden="true"></i>
+                    <span class="sr-only">Facebook</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+</script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+</script>
+</body>
+</html>
