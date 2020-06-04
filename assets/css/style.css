@@ -9,6 +9,14 @@ body {
     font-weight: 200;
 }
 
+.county-title1 {
+    margin-top: 100px;
+}
+
+.contact-title {
+    margin-top: 100px;
+}
+
 /* Navigation menu */
 
 .navalert-container {
@@ -65,12 +73,14 @@ body {
     margin-right: 100px;
 }
 
- .county-title1 {
-     margin-top: 100px;
- }
-
 .county-text {
     margin-bottom: 30px;
+}
+
+/* Buttons */
+
+.btn {
+    margin-bottom: 20px;
 }
 
 /* Footer */
