@@ -77,6 +77,23 @@ body {
     border-radius: 10%;
 }
 
+.cafe-has-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    /*transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;*/
+    padding-top: 10px;
+}
+
 /* Counties */
 
 .counties {
@@ -102,7 +119,7 @@ footer {
     margin-top: 20px;
 }
 
-.social-media-links  li a i {
+.social-media-links li a i {
     width: 32px;
     height: 32px;
     padding: 12px 0;
