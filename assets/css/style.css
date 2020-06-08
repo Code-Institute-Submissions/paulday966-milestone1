@@ -77,12 +77,20 @@ body {
     border-radius: 10%;
 }
 
-/* Cafe links */
+/* Cafe legend */
 
-.cafe-has-links li a i {
+.cafe-legend {
+    list-style-type: none;
+    border: solid black 1px;
+}
+
+/* Lists */
+
+.cafe-legend li i {
     width: 32px;
     height: 32px;
     padding: 12px 0;
+    margin-top: 5px;
     margin-bottom: 5px;
     border-radius: 50%;
     font-size: 13px;
@@ -91,12 +99,6 @@ body {
     color: #fafafa;
     background: #8f8f8f;
     padding-top: 10px;
-}
-
-/* Lists */
-
-.cafe-has-links {
-    list-style-type: none;
 }
 
 /* Counties */
