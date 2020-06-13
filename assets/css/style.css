@@ -66,6 +66,7 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 10%;
+    margin-left: 50px;
 }
 
 .cafe-image {
@@ -110,11 +111,11 @@ body {
 /* Counties */
 
 .counties {
-    margin-right: 100px;
+    margin: 10px;
 }
 
-.county-text {
-    margin-bottom: 30px;
+p.county-text {
+    margin-top: 15px;
 }
 
 /* Buttons */
@@ -152,7 +153,6 @@ iframe {
 footer {
     background-color: #525252;
     color: #fafafa;
-    position: absolute;
     min-height: 10px;
     margin-top: 20px;
     margin: 0;
@@ -172,16 +172,8 @@ footer {
 }
 
 #footer-info {
-    padding: 20px;
+    padding-top: 20px;
 }
 
 /* Media Queries */
 
-@media(min-width: 992px) {
-    .center-form {
-        padding: 30px;
-        min-height: 240px;
-        margin: 0 auto;
-        max-width: 50%;
-    }
-}
