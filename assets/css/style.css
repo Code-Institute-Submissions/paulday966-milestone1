@@ -1,16 +1,25 @@
 body {
-    background-color: rgba(253, 255, 252);  
+    background-color: rgba(253, 255, 252);
+    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Muli', sans-serif;*/
 }
 
 /* Headings */
 
-.name {
+/* Check where this is used */
+
+/*.name {
     font-family: 'Muli', sans-serif;
     font-weight: 200;
+}*/
+
+.county-heading {
+    margin: 100px 0 50px 0;
+    text-align: center;
 }
 
-.county-title1 {
-    margin-top: 100px;
+.county-title {
+    margin-top: 30px;
 }
 
 .contact-title {
@@ -116,6 +125,11 @@ body {
 
 p.county-text {
     margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.welcome-text {
+    text-align: center;
 }
 
 /* Buttons */
