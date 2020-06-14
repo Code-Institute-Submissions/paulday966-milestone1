@@ -19,7 +19,7 @@ body {
 }
 
 .county-title {
-    margin-top: 30px;
+    margin-top: 30px;   
 }
 
 .contact-title {
@@ -115,6 +115,10 @@ body {
 
 .county-links {
     color: black;
+}
+
+a:link {
+    text-decoration: none;
 }
 
 /* Counties */
