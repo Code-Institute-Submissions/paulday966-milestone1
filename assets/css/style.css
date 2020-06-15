@@ -1,7 +1,6 @@
 body {
     background-color: rgba(253, 255, 252);
     font-family: 'Roboto', sans-serif;
-    /*font-family: 'Muli', sans-serif;*/
 }
 
 /* Headings */
@@ -192,6 +191,10 @@ footer {
 #footer-info {
     padding-top: 20px;
 }
+
+/* #social-info {
+    float: right;
+} */
 
 /* Media Queries */
 
