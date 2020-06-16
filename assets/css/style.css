@@ -5,13 +5,6 @@ body {
 
 /* Headings */
 
-/* Check where this is used */
-
-/*.name {
-    font-family: 'Muli', sans-serif;
-    font-weight: 200;
-}*/
-
 .county-heading {
     margin: 100px 0 50px 0;
     text-align: center;
@@ -191,10 +184,4 @@ footer {
 #footer-info {
     padding-top: 20px;
 }
-
-/* #social-info {
-    float: right;
-} */
-
-/* Media Queries */
 
