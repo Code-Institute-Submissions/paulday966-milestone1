@@ -185,3 +185,10 @@ footer {
     padding-top: 10px;
 }
 
+/* Media Queries */
+
+@media(max-width: 767px) {
+    #footer-info {
+        text-align: center;
+    }
+}
