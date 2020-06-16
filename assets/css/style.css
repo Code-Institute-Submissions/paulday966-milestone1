@@ -5,10 +5,20 @@ body {
 
 /* Headings */
 
-.county-heading {
+.welcome-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+p.welcome-text {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* .county-heading {
     margin: 100px 0 50px 0;
     text-align: center;
-}
+} */
 
 .county-title {
     margin-top: 30px;   
