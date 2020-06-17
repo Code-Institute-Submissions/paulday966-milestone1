@@ -213,3 +213,11 @@ footer {
         text-align: center;
     }
 }
+
+@media(max-width: 767px) {
+    .county-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
