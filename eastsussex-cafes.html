@@ -12,53 +12,49 @@
 		integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
 	</script>
 	<script src="https://kit.fontawesome.com/7c91a39110.js" crossorigin="anonymous"></script>
-	<link href="https://fonts.googleapis.com/css?family=Muli:200,300,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css">
 </head>
 
 <body>
-<div class="container-fluid navalert-container">
-    <div class="container-fluid alert-container">
-        <div class="row d-none d-sm-block">
-            <div class="col-12">
-            </div>
-        </div>
-    </div>
+
+<!-- Navigation menu -->
 
 <nav class="navbar navbar-dark navbar-expand-sm">
-                    <a href="/" class="navbar-brand">Cafe Locator</a>
-                    <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="true" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span></button>
-                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                        <ul class="navbar-nav mr-auto">
-                            <li class="nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
-                            <li class="nav-item dropdown">
-                            <a class="active nav-link dropdown-toggle" href="#" id="navbarNavDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Counties</a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href ="eastsussex-cafes.html">East Sussex</a>
-                            <a class="dropdown-item" href ="kent-cafes.html">Kent</a>
-                            <a class="dropdown-item" href ="surrey-cafes.html">Surrey</a>
-                        </div>
-                            </li>
-                        <li class="nav-item mr-2"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </nav>
-</div>
-    
-	<section class="container-fluid cafes">
+    <a href="/" class="navbar-brand">Cafe Locator</a>
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="true" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav mr-auto">
+                <li class=" nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarNavDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Counties</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="active dropdown-item" href ="eastsussex-cafes.html">East Sussex</a>
+                    <a class="dropdown-item" href ="kent-cafes.html">Kent</a>
+                    <a class="dropdown-item" href ="surrey-cafes.html">Surrey</a>
+                </div>
+                </li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
+            </ul>
+        </div>
+</nav>
+
+<!-- Cafes -->
+
+<div class="container">
+    <section class="cafes">
 		<div class="row">
-            <div class="col-sm-4">
-            <h5 class="county-title1">East Sussex Cafes</h5>
-                <p class="county-text inline-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Interdum consectetur libero id faucibus nisl tincidunt eget. Sit amet cursus sit amet. Et magnis dis parturient montes
-                nascetur ridiculus mus.
+            <div class="col">
+                <h1 class="page-title">East Sussex Cafes</h1>
+                <p class="county-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Interdum consectetur libero id faucibus nisl tincidunt eget. Sit amet cursus sit amet. Et magnis dis parturient montes
+                    nascetur ridiculus mus.
                 </p>
             </div>
 		</div>
-		<div class="row">
-        <div class="col-sm-4">
+
             <h5 class="county-title">Cafe 1</h5>
             <img src="assets/images/happy-coffee-6347.jpg" class="cafe-image">
         </div>
@@ -211,7 +207,7 @@
         </div>
 
 </section>
-
+</div>
 <!-- Footer -->
 
 <footer class="container-fluid">
