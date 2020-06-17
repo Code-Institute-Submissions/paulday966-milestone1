@@ -41,66 +41,76 @@
         </div>
 </nav>
 
-<!-- Newsletter sign up section -->
+<!-- Newsletter sign up form -->
 
-<section class="container-fluid">
+<div class="container">
     <div class="row">
-        <div class="col-sm-4">
+        <div class="col-12">
             <h5 class="page-title">Contact Us</h5>
-        <form>
-        <div class="form-group">
             <p class="page-intro">Sign up to our newsletter and receive information every month about the coffee shops on our website.</p>
-            <label for="yourname">Name</label>
-            <input type="text" class="form-control" id="yourname" aria-describedby="yourname">
-            <label for="InputEmail">Email address</label>
-            <input type="email" class="form-control" id="InputEmail" placeholder="someone@example.co.uk" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
-            aria-describedby="emailHelp">
-            <small id="emailHelp" class="form-text text-muted">We'll never share your email address with anyone else</small>
         </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-            <button type="button" class="btn btn-secondary">Cancel</button>
-        </form>
-        </div>
-    </div>
-
-    <hr class="my-4">
-
-<!-- Cafe details request form -->
-
-    <div class="row">
-        <div class="col-sm-4">
-            <p class="cafe-in-mind">Have a cafe in mind? Then please let us know by filling in the form below</p>
-            <p class="cafe-text">Please fill in as much as you can</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-4">
-            <form>
-                <div class="form-group">
-                    <label for="cafename">Cafe Name</label>
-                    <input type="text" class="form-control" id="cafename" required="true" aria-describedby="cafename">
-                <label for="cafewebsite-address">Cafe website address</label>
-                <input type="text" class="form-control" id="cafewebsite-address" placeholder="example@domain.com" aria-describedby="cafewebsite-address">
-                <label for="address">Address</label>
-                <input type="text" class="form-control" id="address" aria-describedby="address">
-                <label for="city">City</label>
-                <input type="text" class="form-control" id="city" required="true" aria-describedby="city">
-                <label for="county">County</label>
-                <input type="text" class="form-control" id="county" aria-describedby="county">
-                <label for="postcode">Post code</label>
-                <input type="text" class="form-control" id="postcode" aria-describedby="postcode">
-            </div>
-            <div class="form-group">
-                <label for="comment">Do you have any additional information that would be useful?</label>
-                <textarea class="form-control" rows="6" id="comment"></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-            <button type="button" class="btn btn-secondary">Cancel</button>
-        </form>
     </div>
 </div>
 
-</section>
+<div class="container">
+    <section class="newsletter-signup">
+        <div class="row">
+            <div class="col-12">
+                <form>
+                    <div class="form-group">
+                        <label for="yourname">Name</label>
+                        <input type="text" class="form-control" id="yourname" aria-describedby="yourname">
+                        <label for="InputEmail">Email address</label>
+                        <input type="email" class="form-control" id="InputEmail" placeholder="someone@example.co.uk" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+                            aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">We'll never share your email address with anyone else</small>
+                    </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                        <button type="button" class="btn btn-secondary">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <hr>
+
+<!-- Cafe details request form -->
+
+    <section class="cafe-request">
+        <div class="row">
+            <div class="col">
+                <p class="cafe-in-mind">Have a cafe in mind? Then please let us know by filling in the form below</p>
+                <p class="cafe-text">Please fill in as much as you can</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <form>
+                    <div class="form-group">
+                        <label for="cafename">Cafe Name</label>
+                        <input type="text" class="form-control" id="cafename" required="true" aria-describedby="cafename">
+                        <label for="cafewebsite-address">Cafe website address</label>
+                        <input type="text" class="form-control" id="cafewebsite-address" placeholder="example@domain.com" aria-describedby="cafewebsite-address">
+                        <label for="address">Address</label>
+                        <input type="text" class="form-control" id="address" aria-describedby="address">
+                        <label for="city">City</label>
+                        <input type="text" class="form-control" id="city" required="true" aria-describedby="city">
+                        <label for="county">County</label>
+                        <input type="text" class="form-control" id="county" aria-describedby="county">
+                        <label for="postcode">Post code</label>
+                        <input type="text" class="form-control" id="postcode" aria-describedby="postcode">
+                    </div>
+                    <div class="form-group">
+                        <label for="comment">Do you have any additional information that would be useful?</label>
+                        <textarea class="form-control" rows="6" id="comment"></textarea>
+                    </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                        <button type="button" class="btn btn-secondary">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </section>
+</div>
 
 <!-- Footer -->
 
