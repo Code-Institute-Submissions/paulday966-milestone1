@@ -146,6 +146,14 @@ label {
     margin-top: 0.6rem;
 }
 
+/* General */
+
+hr {
+    padding: 10px;
+    width: 50%;
+    height: 2px;
+}
+
 /* Google Maps Location */
 
 .mapouter {
