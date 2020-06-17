@@ -1,7 +1,6 @@
 body {
     background-color: rgba(253, 255, 252);
     font-family: 'Roboto', sans-serif;
-/*    flex: 1; */
 }
 
 /* Headings */
@@ -171,9 +170,6 @@ iframe {
 /* Footer */
 
 footer {
-/*  display: flex;
-    flex-direction: column;
-    max-height: 20vh; */
     background-color: #525252;
     color: #fafafa;
     min-height: 10px;
