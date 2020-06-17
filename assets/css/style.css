@@ -133,6 +133,10 @@ p.county-text {
     text-align: center;
 }
 
+.newsletter-intro {
+    margin-top: 20px;
+}
+
 /* Buttons */
 
 .btn {
