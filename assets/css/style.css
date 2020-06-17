@@ -10,22 +10,18 @@ body {
     margin-top: 20px;
 }
 
-p.welcome-text {
+p.page-intro {
     text-align: center;
     margin-top: 20px;
 }
-
-/* .county-heading {
-    margin: 100px 0 50px 0;
-    text-align: center;
-} */
 
 .county-title {
     margin-top: 30px;   
 }
 
-.contact-title {
-    margin-top: 100px;
+.page-title {
+    margin-top: 20px;
+    text-align: center;
 }
 
 /* Navigation menu */
