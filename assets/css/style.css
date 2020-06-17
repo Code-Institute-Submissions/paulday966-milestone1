@@ -201,14 +201,9 @@ footer {
 /* Media Queries */
 
 @media(max-width: 767px) {
-    #footer-info {
-        text-align: center;
-    }
-}
-
-@media(max-width: 767px) {
     p.county-text,
-    .county-title {
+    .county-title,
+    #footer-info {
         margin-top: 0;
         text-align: center;
     }
