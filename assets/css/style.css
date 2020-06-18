@@ -239,8 +239,7 @@ footer {
 
 @media(max-width: 767px) {
     p.county-text,
-    .county-title,
-    #footer-info {
+    .county-title {
         margin-top: 0;
     }
 }
