@@ -11,8 +11,7 @@ body {
     margin-top: 20px;
 }
 
-cafe-title {
-    text-align: center;
+.cafe-title {
     margin-top: 30px;
 }
 
@@ -146,6 +145,10 @@ p.county-text {
 
 .newsletter-intro {
     margin-top: 20px;
+}
+
+.cafe-text {
+    margin-top: 55px;
 }
 
 /* General */
