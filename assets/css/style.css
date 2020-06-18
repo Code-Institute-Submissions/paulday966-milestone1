@@ -255,9 +255,21 @@ footer {
 }
 
 @media(max-width: 767px) {
-    p.cafe-text,
+    p.cafe-text {
+        margin-top: 0;
+    }
+}
+
+@media(max-width: 767px) {
     h5.directions {
         margin-top: 0;
+        margin-left: 0;
+    }
+}
+
+@media(max-width: 767px) {
+    .mapouter {
+        margin-left: 0;
     }
 }
 
