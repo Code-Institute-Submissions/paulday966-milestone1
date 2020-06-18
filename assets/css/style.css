@@ -231,8 +231,6 @@ footer {
 /* Media Queries */
 
 @media(max-width: 767px) {
-    p.county-text,
-    .county-title,
     #footer-info {
         margin-top: 0;
         text-align: center;
@@ -240,9 +238,27 @@ footer {
 }
 
 @media(max-width: 767px) {
-    .county-image {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+    p.county-text,
+    .county-title,
+    #footer-info {
+        margin-top: 0;
     }
 }
+
+@media(max-width: 767px) {
+    .cafe-image {
+        border: solid 1px black;
+        height: 120px;
+        width: 120px;
+        margin-bottom: 20px;
+        border-radius: 10%;
+    }
+}
+
+@media(max-width: 767px) {
+    p.cafe-text,
+    h5.directions {
+        margin-top: 0;
+    }
+}
+
