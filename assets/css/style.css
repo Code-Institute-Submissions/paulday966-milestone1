@@ -11,7 +11,8 @@ body {
     margin-top: 20px;
 }
 
-.cafe-title {
+.cafe-title,
+p.newsletter-intro {
     margin-top: 30px;
     margin-bottom: 15px;
 }
