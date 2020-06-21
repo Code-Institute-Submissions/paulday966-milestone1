@@ -161,7 +161,7 @@ p.county-text {
     margin-top: 55px;
 }
 
-/* General */
+/* Line breaks */
 
 hr {
     padding: 10px;
@@ -239,7 +239,8 @@ footer {
 
 @media(max-width: 767px) {
     p.county-text,
-    .county-title {
+    .county-title,
+    p.cafe-text {
         margin-top: 0;
     }
 }
@@ -251,12 +252,6 @@ footer {
         width: 120px;
         margin-bottom: 20px;
         border-radius: 10%;
-    }
-}
-
-@media(max-width: 767px) {
-    p.cafe-text {
-        margin-top: 0;
     }
 }
 
