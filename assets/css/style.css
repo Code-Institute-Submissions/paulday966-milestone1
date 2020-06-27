@@ -26,6 +26,10 @@ p.newsletter-intro {
     margin-left: 50px;
 }
 
+.county-title {
+    margin: 20px 0 0 0;
+}
+
 /* Navigation menu */
 
 .navalert-container {
@@ -70,8 +74,8 @@ p.newsletter-intro {
 
 .county-image {
     border: solid 1px black;
-    height: 120px;
-    width: 120px;
+    height: 150px;
+    width: 150px;
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 10%;
@@ -146,7 +150,7 @@ p.page-intro {
 }
 
 p.county-text {
-    margin-top: 30px;
+    margin-top: 70px;
 }
 
 .welcome-text {
