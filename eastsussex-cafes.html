@@ -100,7 +100,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-6 col-lg-8">
+            <div class="col-md-6 col-lg-4">
                 <h5 class="directions">Directions</h5>
                     <div class="mapouter">
                         <div class="gmap_canvas">
@@ -111,6 +111,15 @@
             </div>
         </div>
 
+        <div class="row">
+            <div class="col" id="container-wrapper">
+                <h5>Food and coffee images</h5>
+                <img src="assets/images/happy-coffee-6347.jpg" class="food-image">
+                <img src="assets/images/happy-coffee-6347.jpg" class="food-image">
+                <img src="assets/images/happy-coffee-6347.jpg" class="food-image">
+                <img src="assets/images/happy-coffee-6347.jpg" class="food-image">
+            </div>
+        </div>
 
 <hr class="cafe-divider">
 
@@ -265,6 +274,29 @@
             </div>
         </div>
 </footer>
+
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("myImg");
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</script>
 
 	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
 		integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
