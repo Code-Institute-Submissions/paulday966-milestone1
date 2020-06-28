@@ -89,6 +89,12 @@ p.newsletter-intro {
     border-radius: 10%;
 }
 
+.food-image {
+    height: 100px;
+    width: 100px;
+}
+
+
 /* Cafe legend */
 
 .cafe-legend {
