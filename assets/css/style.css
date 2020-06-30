@@ -23,7 +23,7 @@ p.newsletter-intro {
 
 .directions {
     margin-top: 40px;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
 .county-title {
@@ -151,7 +151,8 @@ label {
 
 /* Text */
 
-p.page-intro {
+p.page-intro,
+.newsletter-intro {
     margin-top: 20px;
 }
 
@@ -161,10 +162,6 @@ p.county-text {
 
 .welcome-text {
     text-align: center;
-}
-
-.newsletter-intro {
-    margin-top: 20px;
 }
 
 .cafe-text {
@@ -194,7 +191,7 @@ hr.cafe-divider {
     height: 200px;
     width: 200px;
     margin-bottom: 10px;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
 .gmap_canvas {
