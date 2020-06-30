@@ -269,6 +269,16 @@ footer {
     }
 }
 
+@media(max-width: 992px) {
+    .cafe-image {
+        border: solid 1px black;
+        height: 120px;
+        width: 120px;
+        margin-bottom: 20px;
+        border-radius: 10%;
+    }
+}
+
 @media(max-width: 767px) {
     h5.directions {
         margin-top: 0;
