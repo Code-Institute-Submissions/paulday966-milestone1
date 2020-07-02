@@ -70,6 +70,12 @@ p.newsletter-intro {
     font-weight: bold;
 }
 
+/* Bootstrap Cards */
+
+.info-card {
+    margin: 30px 0 30px 0;
+}
+
 /* Images */
 
 .county-image {
