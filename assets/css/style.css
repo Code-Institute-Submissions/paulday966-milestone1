@@ -16,14 +16,14 @@ p.newsletter-intro {
     margin: 30px 0 20px 0;
 }
 
-.cafehas-heading {
+/*.cafehas-heading {
     margin-top: 40px;
-}
+}*/
 
-.directions {
+/*.directions {
     margin-top: 40px;
     margin-left: 30px;
-}
+}*/
 
 .county-title {
     margin: 20px 0 0 0;
@@ -94,10 +94,10 @@ p.newsletter-intro {
     border-radius: 10%;
 }
 
-.food-image {
+/*.food-image {
     height: 100px;
     width: 100px;
-}
+}*/
 
 /* Cafe legend */
 
@@ -135,9 +135,9 @@ a:link {
 
 /* Counties */
 
-.counties {
+/*.counties {
     margin: 10px;
-}
+}*/
 
 /* Buttons */
 
@@ -154,7 +154,8 @@ label {
 
 /* Text */
 
-p.page-intro,
+/* p.page-intro, */
+
 .newsletter-intro {
     margin-top: 20px;
 }
@@ -163,9 +164,9 @@ p.county-text {
     margin-top: 70px;
 }
 
-.welcome-text {
+/*.welcome-text {
     text-align: center;
-}
+}*/
 
 /* Other items */
 
@@ -279,12 +280,12 @@ footer {
     }
 }
 
-@media(max-width: 767px) {
+/*@media(max-width: 767px) {
     h5.directions {
         margin-top: 0;
         margin-left: 0;
     }
-}
+}*/
 
 @media(max-width: 767px) {
     .mapouter {
