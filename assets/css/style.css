@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(253, 255, 252);
+    /*background-color: rgba(253, 255, 252);*/
     font-family: 'Roboto', sans-serif;
 }
 
@@ -138,10 +138,6 @@ label {
 
 p.county-text {
     margin-top: 70px;
-}
-
-.cafe-text {
-    background-color: white;
 }
 
 /* Other items */
