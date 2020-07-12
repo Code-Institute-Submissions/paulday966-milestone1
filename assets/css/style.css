@@ -231,7 +231,7 @@ footer {
     }
 }
 
-@media(max-width: 990px) {
+@media(max-width: 991px) {
     .cafe-image {
         border: solid 1px black;
         height: 150px;
