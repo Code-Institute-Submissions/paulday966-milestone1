@@ -16,8 +16,12 @@ Add links to the wireframes
 
 ### Features left to implement
 
+A future update would be to add a photo gallery for each cafe, which displays their cakes and inside and or outside of the cafe. The user would be able to click on each image to expand it and easily close it.
+
+Another feature is a section with links, descriptions and images for walks and places to visit in the nearby area. This could take the form of a database, or addtional pages with all of the information on them. The user will be able to print off the simple to follow walk descriptions. The walks would end at or near the cafe so the person could then visit the cafe. After the end of the visit to a nearby tourist attraction their will be directions to the cafe.
 
 ### Technologies used
+
 
 
 ### Testing
