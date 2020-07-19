@@ -77,17 +77,28 @@ I copied the footer from the resume project, then deleted the links to LinkedIn,
 
 ##### East Sussex Cafes
 
-I copied the description text, address, phone number, email address, and the image for the cafe for Pooh Corner cafe from https://www.poohcorner.co.uk/. I added these details to the Winnie the Pooh cafe on the East Sussex cafe page.
+I copied the description text, address, phone number and the email address for the cafe for Pooh Corner cafe from https://www.poohcorner.co.uk/. I added these details to the Winnie the Pooh cafe on the East Sussex cafe page.
 
-I copied the description text, address, phone number and email address for Hanushka Coffee House from https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/about/?ref=page_internal. I copied the cafe image from https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/photos/?ref=page_internal. I added these details to the Hanushka Coffee House cafe on the East Sussex cafe page.
+I copied the description text, address, phone number and email address for Hanushka Coffee House from https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/about/?ref=page_internal. I added these details to the Hanushka Coffee House cafe on the East Sussex cafe page.
 
-I copied the address, tearooms phone number and email address for Bluebells Tearoom from https://www.bluebellstearoom.co.uk/. I copied the cafe image from https://www.bluebellstearoom.co.uk/gallery. I added these details to the Bluebells Tearoom cafe on the East Sussex cafe page. I created the desciption for this cafe myself
+I copied the address, tearooms phone number and email address for Bluebells Tearoom from https://www.bluebellstearoom.co.uk/. I added these details to the Bluebells Tearoom cafe on the East Sussex cafe page. I created the desciption for this cafe myself
 
 ##### Kent Cafes
 
 
 
 #### Media
+
+##### East Sussex cafe images
+
+I copied the cafe image the Winnie the Pooh cafe from https://www.poohcorner.co.uk/.
+
+I copied the cafe image for the Hanushka Coffee House cafe from https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/photos/?ref=page_internal.
+
+I copied the cafe image for the Bluebells Tearoom from https://www.bluebellstearoom.co.uk/gallery.
+
+##### Kent cafe images
+
 
 
 #### Acknowledgments
