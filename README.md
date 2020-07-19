@@ -40,21 +40,20 @@ Bootstrap was used to create the two sections of the contact us page by clicking
 
 https://fontawesome.com/
 
-Font Awesome was used to add icons to the following list items
+Font Awesome was used to add icons at the beginning of the following paragraph's in the cafe's contact details:
 
-Contact details
+* Phone
+* Address
+* Email
+* Website
 
-Phone
-Address
-Email
-Website
+It was also used for the following items in the At a glance for each cafe:
 
-At a glance
-
-Food
-Outside seating
-Dogs allowed
-Public transport
+* Food
+* Outside seating
+* Dogs allowed
+* Public transport
+* Parking
 
 #### Google Fonts
 
