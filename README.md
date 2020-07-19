@@ -75,6 +75,16 @@ The navigation menu for each page was copied from the mobile first Whiskey Drop 
 
 I copied the footer from the resume project, then deleted the links to LinkedIn, Pinterest and YouTube. I changed the name from Social to Social Media and removed the uppercase and general-sub classes. I added my own class to the social media title of footer-heading and changed the social-links class to social-media-links. I deleted the download CV link as it wasn't needed and removed the wording for the about section and added my own wording. I removed the uppercase and general-sub classes and added the footer-heading class and changed the title from About to About Us.
 
+##### East Sussex Cafes
+
+I copied the description text, address, phone number, email address, and the image for the cafe for Pooh Corner cafe from https://www.poohcorner.co.uk/. I added these details to the Winnie the Pooh cafe on the East Sussex cafe page.
+
+I copied the description text, address, phone number and email address for Hanushka Coffee House from https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/about/?ref=page_internal. I copied the cafe image from https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/photos/?ref=page_internal. I added these details to the Hanushka Coffee House cafe on the East Sussex cafe page.
+
+I copied the address, tearooms phone number and email address for Bluebells Tearoom from https://www.bluebellstearoom.co.uk/. I copied the cafe image from https://www.bluebellstearoom.co.uk/gallery. I added these details to the Bluebells Tearoom cafe on the East Sussex cafe page. I created the desciption for this cafe myself
+
+##### Kent Cafes
+
 
 
 #### Media
