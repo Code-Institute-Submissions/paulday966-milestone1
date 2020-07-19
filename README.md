@@ -134,9 +134,9 @@ I copied the cafe image for Cronwells cafe from https://cromwellcoffeehouse.co.u
 
 #### Acknowledgments
 
+I got the inspiration for this project from cycling with the Cheam and Morden CTC group https://cheamandmorden.blogspot.com/ over many years. I found very few websites that had inforamtion about cafes in one place, and had to remember the cafe and website so I could look it up. 
+
 Sent the following email to the following cafes asking permission to use their text and images.
-
-
 
 Hi,
 
