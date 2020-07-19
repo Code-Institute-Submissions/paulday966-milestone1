@@ -42,8 +42,8 @@ https://fontawesome.com/
 
 Font Awesome was used to add icons at the beginning of the following paragraph's in the cafe's contact details:
 
-* Phone
 * Address
+* Phone
 * Email
 * Website
 
@@ -69,8 +69,12 @@ I have used Google Fonts to style the font font used on all pages.
 
 ### Credits
 
-
 #### Content
+
+The navigation menu for each page was copied from the mobile first Whiskey Drop mini project I created during the previous module. CHECK THIS. This menu was exactly what I needed, so I changed all of the links and names of the links to the pages in my project and added in the contact page. I deleted the sign up section.
+
+I copied the footer from the resume project, then deleted the links to LinkedIn, Pinterest and YouTube. I changed the name from Social to Social Media and removed the uppercase and general-sub classes. I added my own class to the social media title of footer-heading and changed the social-links class to social-media-links. I deleted the download CV link as it wasn't needed and removed the wording for the about section and added my own wording. I removed the uppercase and general-sub classes and added the footer-heading class and changed the title from About to About Us.
+
 
 
 #### Media
