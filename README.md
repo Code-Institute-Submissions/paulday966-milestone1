@@ -85,9 +85,27 @@ I copied the address, tearooms phone number and email address for Bluebells Tear
 
 ##### Kent Cafes
 
+I copied the description text for the cafe for The Shoreham Aircraft Museum tearoom from http://www.shoreham-aircraft-museum.co.uk/teas.htm. I copied the address, phone number and email address from http://www.shoreham-aircraft-museum.co.uk/opening.htm. I added these details to The Shoreham Aircraft Museum tearoom on the Kent cafe page.
 
+I copied the address, phone number and email address for Steep Street Coffee House from https://www.steepstreet.co.uk/contact/. The cafe description came https://www.steepstreet.co.uk/the-steep-street-coffee-house/. I added these details to the Steep Street Coffee House cafe on the Kent cafe page.
+
+I copied the address and phone number for The Curious Cupcake Cafe from https://www.cupcakecafemargate.co.uk/ and the email address from https://www.cupcakecafemargate.co.uk/contact. I added these details to The Curious Cupcake Cafe on the Kent cafe page.
+
+##### Surrey Cafes
+
+I copied the address, phone number and email address for The Dabbling Duck from https://www.thedabblingduck.uk.com/. I copied the description from https://www.thedabblingduck.uk.com/pages/about-us. I added these details to The Dabbling Duck cafe on the Surrey cafe page.
+
+I copied the address and phone number for the cafe for The Headley Village Store and Tea room from https://www.headleytearoom.co.uk/contact. The email address came from https://www.facebook.com/pg/headleyvillagestores/about/?ref=page_internal. I copied the cafe description from https://www.headleytearoom.co.uk/. I added these details to The Headley Village Store and Tea room on the Surrey cafe page.
+
+I copied the address, phone number and email address for Cromwells from https://cromwellcoffeehouse.co.uk/. The description came from https://cromwellcoffeehouse.co.uk/about-us/. I added these details to the Cromwells cafe on the Surrey cafe page.
 
 #### Media
+
+The cafe image used for East Sussex cafes on the index.html page came from https://www.bluebellstearoom.co.uk/gallery.
+
+The cafe image used for Kent cafes on the index.html page came from http://www.shoreham-aircraft-museum.co.uk/teas.htm.
+
+The cafe image used for Surrey cafes on the index.html page came from https://cromwellcoffeehouse.co.uk/about-us/.
 
 ##### East Sussex cafe images
 
@@ -99,6 +117,19 @@ I copied the cafe image for the Bluebells Tearoom from https://www.bluebellstear
 
 ##### Kent cafe images
 
+I copied the cafe image The Shoreham Aircraft Museum tearoom from http://www.shoreham-aircraft-museum.co.uk/teas.htm.
+
+I copied the cafe image for the Steep Street Coffee House cafe from https://www.facebook.com/pg/Steepstreet/photos/?tab=album&album_id=1029824603734471&ref=page_internal.
+
+I copied the cafe image for The Curious Cupcake Cafe from https://www.cupcakecafemargate.co.uk/.
+
+##### Surrey Cafes
+
+I copied the cafe image The Dabbling Duck cafe from https://www.thedabblingduck.uk.com/pages/about-us.
+
+I copied the cafe image for The Headley Village Store and Tearoom from https://www.facebook.com/pg/headleyvillagestores/photos/?tab=album&album_id=254500014918830&ref=page_internal.
+
+I copied the cafe image for Cronwells cafe from https://cromwellcoffeehouse.co.uk/about-us/.
 
 
 #### Acknowledgments
