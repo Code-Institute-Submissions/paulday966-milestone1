@@ -1,10 +1,12 @@
 # Cafe Locator
 
-The idea for this project came to me when I wanted to see a list of coffee shops in one place, but it wasn't available. On my weekend bike rides I have discovered a lot of coffee shops, and some of them have a theme. To start with I decided to select three counties close to home and three coffee shops for each one.
+The idea for this project came to me when I wanted to see a list of coffee shops in one place, but it wasn't easy to search for cafes in different counties in one place. I had to do multiple searches to find what I wanted. On my weekend bike rides I have discovered a lot of coffee shops, and some of them have a theme. To start with I decided to select three counties close to home and three coffee shops for each one, some with a theme and some without, but all of them welcoming. 
 
 ### UX
 
-Add user stories
+I wanted the older generations to have access to a list of coffee shops in different counties in one place so they can browse through them. It would be easy for them to see the key information then be able to go to their website for further information.
+
+And the younger people that have smartphones, they would be able to access the site, see the key information and use Google Maps to guide them to the cafe.
 
 Add links to the wireframes
 
