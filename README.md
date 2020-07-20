@@ -8,7 +8,30 @@ I wanted the older generations to have access to a list of coffee shops in diffe
 
 And the younger people that have smartphones, they would be able to access the site, see the key information and use Google Maps to guide them to the cafe.
 
-Add links to the wireframes
+#### Wireframe mockups for the desktop site
+
+*[Index.html](https://github.com/paulday966/milestone1/blob/571d2ccc0be98fddc15b314385870282c362454e/assets/wireframes/desktop/desktop_index.pdf)
+
+East Sussex cafes page: https://github.com/paulday966/milestone1/blob/96a40e406cf413b0b79b1272c4de2139bbe290fc/assets/wireframes/desktop/desktop_East_sussex_cafes.pdf
+
+Kent cafes: https://github.com/paulday966/milestone1/blob/88cd265307c7b88ef53eb7d7811faa9530fd24f7/assets/wireframes/desktop/desktop_kent_cafes.pdf
+
+Surrey cafes: https://github.com/paulday966/milestone1/blob/61e3f15ae1a051de8892d68d78616487c51abe09/assets/wireframes/desktop/desktop_surrey_cafes.pdf
+
+Contact Us page: https://github.com/paulday966/milestone1/blob/6b211c27d2dcfde93469b371710c9853fd268d23/assets/wireframes/desktop/desktop_contact_us.pdf
+
+#### Wireframe mockups for the mobile site
+
+Index.html: https://github.com/paulday966/milestone1/blob/8c055eed0764f1d44a388bfa27ba82745b1e1596/assets/wireframes/mobile/mobile_first_index.pdf
+
+East Sussex cafes page: https://github.com/paulday966/milestone1/blob/b61b64192ba5f55e2052e62158ad80346dda18d8/assets/wireframes/mobile/mobile_first_east_sussex_cafes.pdf
+
+Kent cafes: https://github.com/paulday966/milestone1/blob/6a158984b96d45f15ddc76d47143e5343ca40efa/assets/wireframes/mobile/mobile_first_kent_cafes.pdf
+
+Surrey cafes: https://github.com/paulday966/milestone1/blob/d9a67352d5be54bc1d95c883483eae3348c3ce61/assets/wireframes/mobile/mobile_first_surrey_cafes.pdf
+
+Contact Us page: https://github.com/paulday966/milestone1/blob/d8bae6083c247d28133ca698b506e723176850d9/assets/wireframes/mobile/mobile_first_contact_us.pdf
+
 
 ### Features
 
