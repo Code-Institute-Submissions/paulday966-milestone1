@@ -6,7 +6,7 @@ The idea for this project came to me when I wanted to see a list of coffee shops
 
 I wanted the older generations to have access to a list of coffee shops in different counties in one place so they can browse through them. It would be easy for them to see the key information then be able to go to their website for further information.
 
-And the younger people that have smartphones, they would be able to access the site, see the key information and use Google Maps to guide them to the cafe.
+For the younger people that have smartphones, they would be able to access the site, see the key information and use Google Maps to guide them to the cafe.
 
 #### Wireframe mockups for the desktop site
 
@@ -32,7 +32,6 @@ And the younger people that have smartphones, they would be able to access the s
 
 * [Contact Us](https://github.com/paulday966/milestone1/blob/d8bae6083c247d28133ca698b506e723176850d9/assets/wireframes/mobile/mobile_first_contact_us.pdf)
 
-
 ### Features
 
 
@@ -57,13 +56,13 @@ CSS3 was used to style the cafe images and descriptions on each of the pages. Th
 
 #### Bootstrap
 
-https://getbootstrap.com/
+* [Bootstrap](https://getbootstrap.com/)
 
 Bootstrap was used to create the two sections of the contact us page by clicking on the copy html link and pasting them on to the page. Booststrap was also used to add the column classes to the divs within rows, so the content would change responsivley on large, medium and small screen sizes.
 
 #### Font Awesome
 
-https://fontawesome.com/
+* [Font Awesome](https://fontawesome.com/)
 
 Font Awesome was used to add icons at the beginning of the following paragraph's in the cafe's contact details:
 
@@ -82,7 +81,7 @@ It was also used for the following items in the At a glance for each cafe:
 
 #### Google Fonts
 
-https://fonts.google.com/
+* [Google Fonts](https://fonts.google.com/)
 
 I have used Google Fonts to style the font font used on all pages.
 
