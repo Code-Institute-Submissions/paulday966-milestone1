@@ -10,15 +10,15 @@ And the younger people that have smartphones, they would be able to access the s
 
 #### Wireframe mockups for the desktop site
 
-*[Index.html](https://github.com/paulday966/milestone1/blob/571d2ccc0be98fddc15b314385870282c362454e/assets/wireframes/desktop/desktop_index.pdf)
+* [Index.html](https://github.com/paulday966/milestone1/blob/571d2ccc0be98fddc15b314385870282c362454e/assets/wireframes/desktop/desktop_index.pdf)
 
-East Sussex cafes page: https://github.com/paulday966/milestone1/blob/96a40e406cf413b0b79b1272c4de2139bbe290fc/assets/wireframes/desktop/desktop_East_sussex_cafes.pdf
+* [East Sussex cafes](https://github.com/paulday966/milestone1/blob/96a40e406cf413b0b79b1272c4de2139bbe290fc/assets/wireframes/desktop/desktop_East_sussex_cafes.pdf)
 
-Kent cafes: https://github.com/paulday966/milestone1/blob/88cd265307c7b88ef53eb7d7811faa9530fd24f7/assets/wireframes/desktop/desktop_kent_cafes.pdf
+* [Kent cafes](https://github.com/paulday966/milestone1/blob/88cd265307c7b88ef53eb7d7811faa9530fd24f7/assets/wireframes/desktop/desktop_kent_cafes.pdf)
 
-Surrey cafes: https://github.com/paulday966/milestone1/blob/61e3f15ae1a051de8892d68d78616487c51abe09/assets/wireframes/desktop/desktop_surrey_cafes.pdf
+* [Surrey cafes](https://github.com/paulday966/milestone1/blob/61e3f15ae1a051de8892d68d78616487c51abe09/assets/wireframes/desktop/desktop_surrey_cafes.pdf)
 
-Contact Us page: https://github.com/paulday966/milestone1/blob/6b211c27d2dcfde93469b371710c9853fd268d23/assets/wireframes/desktop/desktop_contact_us.pdf
+* [Contact Us](https://github.com/paulday966/milestone1/blob/6b211c27d2dcfde93469b371710c9853fd268d23/assets/wireframes/desktop/desktop_contact_us.pdf)
 
 #### Wireframe mockups for the mobile site
 
