@@ -38,7 +38,9 @@ For the younger people that have smartphones, they would be able to access the s
 
 * Feature 1 - Location of cafe using an embeded Google Maps. The user can see at a glance where the cafe is and if they click on it Google Maps will open up in a new tab and give users the full Google Maps experience.
 
-* 
+* Feature 2 - Newsletter sign up. When the user clicks on the link for the contact Us page the user has the option to sign up to the monthly newsletter
+
+* Feature 3 - Send cafe details. When the user clicks on the link for the contact Us page the user has the option to fill in details about a cafe they have found. The minimum details required are the cafe name and city, and a message pops up to remind them to fill these in if they haven't done so
 
 ### Features left to implement
 
