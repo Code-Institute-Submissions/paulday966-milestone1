@@ -34,9 +34,11 @@ For the younger people that have smartphones, they would be able to access the s
 
 ### Features
 
-
 ### Existing features
 
+* Feature 1 - Location of cafe using an embeded Google Maps. The user can see at a glance where the cafe is and if they click on it Google Maps will open up in a new tab and give users the full Google Maps experience.
+
+* 
 
 ### Features left to implement
 
@@ -96,6 +98,12 @@ I have used a Github repository to store all of the html and css files, the imag
 I used Gitpod to write and save the html files and CSS and store the CSS in a folder. It was also used to upload the images and wireframes into seperate folders. All of the work was saved bit by bit by using git commands.
 
 * [Gitpod](https://cd5781b0-ba09-43db-ba86-1aa063eb2cd6.ws-eu01.gitpod.io/#/workspace/milestone1)
+
+#### Embed Google Maps
+
+I used this to get the location of the cafe in Google Maps, and I was able to adjust the size of the map to my requirements.
+
+* [Embed Google Maps for website Maps generator for free](https://www.embedgooglemap.net/en/?gclid=Cj0KCQjwpNr4BRDYARIsAADIx9w2dCTRcQJCJxIXJn9gCWRinhuiUD1BjqXTQ-_3aUrx3Bvb5CRBA6EaAkWgEALw_wcB)
 
 ### Testing
 
