@@ -10,7 +10,7 @@ For the younger people that have smartphones, they would be able to access the s
 
 #### Wireframe mockups for the desktop site
 
-* [Index.html](https://github.com/paulday966/milestone1/blob/571d2ccc0be98fddc15b314385870282c362454e/assets/wireframes/desktop/desktop_index.pdf)
+* [Index.html](https://github.com/paulday966/milestone1/blob/571d2ccc0be98fddc15b314385870282c362454e/assets/wireframes/desktop/desktop_index.pdf{:target="_blank"})
 
 * [East Sussex cafes](https://github.com/paulday966/milestone1/blob/96a40e406cf413b0b79b1272c4de2139bbe290fc/assets/wireframes/desktop/desktop_East_sussex_cafes.pdf)
 
