@@ -174,14 +174,14 @@ hr.cafe-divider {
     position: relative;
     text-align: right;
     height: 17rem;
-    width: 17rem;
+    width: 25rem;
 }
 
 .gmap_canvas {
     overflow: hidden;
     background: none!important;
     height: 17rem;
-    width: 17rem;
+    width: 25rem;
 }
 
 iframe {
