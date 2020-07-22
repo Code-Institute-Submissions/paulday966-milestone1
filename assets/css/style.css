@@ -4,7 +4,16 @@ body {
 
 /* Headings */
 
-.welcome-title,
+.navbar-heading {
+    font-family: 'Indie Flower', cursive;
+}
+
+.welcome-title {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    margin-top: 20px;
+}
+
 .page-title {
     text-align: center;
     margin-top: 20px;
