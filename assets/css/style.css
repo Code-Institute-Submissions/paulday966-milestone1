@@ -146,11 +146,15 @@ label {
 }
 
 p.county-text {
-    margin-top: 20px;
+    margin-top: 1rem;
 }
 
 p.about-us {
     margin-top: 15px;
+}
+
+p.intro-text {
+    margin: 2rem;
 }
 
 /* Other items */
