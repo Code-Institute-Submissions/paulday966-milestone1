@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     /*background-color: cornsilk;*/
     /*background-color: RGB(245, 245, 244);*/
-    background-color: RGB(255, 253, 242);
+    background-color: RGB(255, 253, 242); /* The colour is Floral White */
 }
 
 /* Headings */
@@ -21,6 +21,10 @@ body {
     font-family: 'Indie Flower', cursive;
     text-align: center;
     margin-top: 20px;
+}
+
+.cafe-title {
+    text-align: center;
 }
 
 .cafe-title,
