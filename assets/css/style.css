@@ -208,6 +208,7 @@ iframe {
 
 #footer-info {
     margin-top: 2rem;
+    padding-top: 10px;
 }
 
 footer {
@@ -237,10 +238,6 @@ footer {
 
 .social-media-links li a i:hover {
     background: lightblue;
-}
-
-#footer-info {
-    padding-top: 10px;
 }
 
 /* Media Queries */
@@ -278,5 +275,11 @@ footer {
 @media(max-width: 576px) {
     p.intro-text {
         margin: 1rem 0 1rem 0;
+    }
+}
+
+@media(max-width: 768px) {
+    #footer-info {
+        margin-top: 2rem;
     }
 }
