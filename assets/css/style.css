@@ -271,3 +271,8 @@ footer {
     }
 }
 
+@media(max-width: 576px) {
+    p.intro-text {
+        margin: 1rem 0 1rem 0;
+    }
+}
