@@ -206,6 +206,10 @@ iframe {
 
 /* Footer */
 
+#footer-info {
+    margin-top: 2rem;
+}
+
 footer {
     background-color: #525252;
     color: #fafafa;
