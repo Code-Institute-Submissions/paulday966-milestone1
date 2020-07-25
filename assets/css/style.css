@@ -57,6 +57,11 @@ p.newsletter-intro {
     z-index: 5;
 }
 
+.navbar a:hover {
+    color: black;
+    background-color: white;
+}
+
 .navbar .navbar-toggler {
     border: 1px solid black;
     color: black;
