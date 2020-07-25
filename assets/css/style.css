@@ -164,6 +164,7 @@ p.intro-text {
 /* Other items */
 
 .container {
+    position: relative;
     z-index: 1;
 }
 
