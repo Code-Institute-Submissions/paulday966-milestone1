@@ -279,9 +279,9 @@ footer {
     }
 }
 
-@media(min-width: 1200px) {
+/*@media(min-width: 1200px) {
     footer {
-        position: fixed;
+        position: relative;
         margin: 0;
         padding: 0;
     }
@@ -292,4 +292,4 @@ footer {
         margin: 0;
         padding: 0;
     }
-}
+}*/
