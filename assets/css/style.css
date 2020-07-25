@@ -161,10 +161,6 @@ p.intro-text {
 
 /* Other items */
 
-.end-of-page {
-    margin-bottom: 3rem;
-}
-
 hr {
     padding: 10px;
     width: 50%;
@@ -211,7 +207,6 @@ iframe {
 }
 
 footer {
-    position: fixed;
     width: 100%;
     bottom: 0;
     font-family: roboto;
@@ -222,10 +217,10 @@ footer {
     margin: 0;
 }
 
-#footer-info.row {
+/*#footer-info.row {
     margin: 0;
     padding: 0;
-}
+}*/
 
 .social-media-links li a i {
     width: 32px;
