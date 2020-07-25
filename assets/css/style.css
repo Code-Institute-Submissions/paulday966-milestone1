@@ -53,6 +53,7 @@ p.newsletter-intro {
     border: 0;
     width: 100%;
     background-color: #e3f2fd;
+    z-index: 5;
 }
 
 .navbar .navbar-toggler {
@@ -161,6 +162,10 @@ p.intro-text {
 }
 
 /* Other items */
+
+.container {
+    z-index: 1;
+}
 
 hr {
     padding: 10px;
