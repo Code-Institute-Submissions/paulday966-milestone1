@@ -212,6 +212,8 @@ iframe {
 }
 
 footer {
+    font-family: roboto;
+    font-weight: 300;
     background-color: #525252;
     color: #fafafa;
     min-height: 10px;
