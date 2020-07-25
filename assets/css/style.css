@@ -226,21 +226,14 @@ footer {
     height: 32px;
     padding: 12px 0;
     border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
+    font-size: 20px;
+    line-height: 13px;
     text-align: center;
     color: white;
-    background: #8f8f8f;
+    background:  cornflowerblue;
     padding-top: 10px;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
 }
 
-.social-media-links li a i:hover {
-    background: lightblue;
-}
 
 /* Media Queries */
 
