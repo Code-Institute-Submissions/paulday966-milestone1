@@ -278,3 +278,18 @@ footer {
         text-align: center;
     }
 }
+
+@media(min-width: 1200px) {
+    footer {
+        position: fixed;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@media(min-width: 1200px) {
+    #footer-info.row {
+        margin: 0;
+        padding: 0;
+    }
+}
