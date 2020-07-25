@@ -212,13 +212,20 @@ iframe {
 }
 
 footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
     font-family: roboto;
     font-weight: 300;
     background-color: #525252;
     color: #fafafa;
     min-height: 10px;
-    margin-top: 20px;
     margin: 0;
+}
+
+#footer-info.row {
+    margin: 0;
+    padding: 0;
 }
 
 .social-media-links li a i {
