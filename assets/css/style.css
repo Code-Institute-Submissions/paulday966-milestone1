@@ -38,16 +38,16 @@ p.newsletter-intro {
 
 /* Navigation menu */
 
-.navalert-container {
+/*.navalert-container {
     position: absolute;
     top: 0;
     left: 0;
     padding-left: 0;
     padding-right: 0;
-    z-index: 1;
-}
+}*/
 
 .navbar {
+    position: absolute;
     margin-left: 0;
     margin-bottom: 10px;
     border: 0;
