@@ -47,7 +47,8 @@ p.newsletter-intro {
 }*/
 
 .navbar {
-    position: absolute;
+    position: fixed;
+    top: 0;
     margin-left: 0;
     margin-bottom: 10px;
     border: 0;
@@ -163,10 +164,10 @@ p.intro-text {
 
 /* Other items */
 
-.container {
+/*.container {
     position: relative;
     z-index: 1;
-}
+}*/
 
 hr {
     padding: 10px;
