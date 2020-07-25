@@ -141,6 +141,12 @@ label {
     margin-top: 0.6rem;
 }
 
+/* Images */
+
+.county-links img {
+    margin-bottom: 2rem;
+}
+
 /* Text */
 
 .newsletter-intro {
