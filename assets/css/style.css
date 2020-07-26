@@ -206,11 +206,6 @@ footer {
     margin: 0;
 }
 
-/*#footer-info.row {
-    margin: 0;
-    padding: 0;
-}*/
-
 .social-media-links li a i {
     width: 32px;
     height: 32px;
@@ -223,7 +218,6 @@ footer {
     background:  cornflowerblue;
     padding-top: 10px;
 }
-
 
 /* Media Queries */
 
@@ -268,17 +262,3 @@ footer {
     }
 }
 
-/*@media(min-width: 1200px) {
-    footer {
-        position: relative;
-        margin: 0;
-        padding: 0;
-    }
-}
-
-@media(min-width: 1200px) {
-    #footer-info.row {
-        margin: 0;
-        padding: 0;
-    }
-}*/
