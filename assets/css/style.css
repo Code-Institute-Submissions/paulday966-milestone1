@@ -190,7 +190,11 @@ hr.cafe-divider {
 
 /* Google Maps Location */
 
-.mapouter {
+/*.info-card card {
+    max-width: 25.125rem;
+}*/
+
+/*.mapouter {
     position: relative;
     text-align: right;
     height: 17rem;
@@ -204,14 +208,16 @@ hr.cafe-divider {
     width: 25rem;
 }
 
-iframe {
-    width: 100%;
+/*.iframe {
+    width: 25rem;
+    height: 17rem;
+    /*width: 100%;
     height: 100%;
-}
+}*/
 
-.card-body.map {
+/*.card-body.map {
     padding: 0;
-}
+}*/
 
 /* Footer */
 
