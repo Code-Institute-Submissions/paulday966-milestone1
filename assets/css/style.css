@@ -190,6 +190,11 @@ hr.cafe-divider {
 
 /* Google Maps Location */
 
+.map-size {
+    height: 17rem;
+    width: 25rem;
+}
+
 /*.info-card card {
     max-width: 25.125rem;
 }*/
