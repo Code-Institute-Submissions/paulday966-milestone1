@@ -202,6 +202,16 @@ hr.cafe-divider {
     margin-top: 40px;
 }
 
+/* Colours */
+
+.dropdown-menu-color {
+background-color: #e3f2fd;
+}
+
+.active {
+    background-color: white;
+}
+
 /* Footer */
 
 #footer-info {
