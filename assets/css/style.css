@@ -63,6 +63,11 @@ p.newsletter-intro {
     background-color: white;
 }
 
+.navbar .dropdown-menu a:hover {
+    color: black;
+    background-color: #e3f2fd;
+}
+
 .navbar .navbar-toggler {
     border: 1px solid black;
     color: black;
