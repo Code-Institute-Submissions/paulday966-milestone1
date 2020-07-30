@@ -226,7 +226,7 @@ I got the inspiration for this project from cycling with the [Cheam and Morden C
 
 I would like to thank my friend Anja in the walking group I'm a member of for suggesting the title Quirky Cafes. This is much better than Cafe Locator, the title I was using, and makes it a more friendly and welcoming website. 
 
-Sent the following email to the following cafes asking permission to use their text and images.
+Sent the following email to the nine cafes used in this website asking for their permission to use their text and images.
 
 Hi,
 
