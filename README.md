@@ -173,11 +173,11 @@ I copied the address, tearooms phone number and email address for Bluebells Tear
 
 ##### Kent Cafes
 
-I copied the description text for the cafe for The Shoreham Aircraft Museum tearoom from http://www.shoreham-aircraft-museum.co.uk/teas.htm. I copied the address, phone number and email address from http://www.shoreham-aircraft-museum.co.uk/opening.htm. I added these details to The Shoreham Aircraft Museum tearoom on the Kent cafe page.
+I copied the description text for the cafe for The Shoreham Aircraft Museum tearoom from [Shoreham Aircraft museum tearoom](http://www.shoreham-aircraft-museum.co.uk/teas.htm). I copied the address, phone number and email address from [Shoreham Aircraft museum tearoom opening](http://www.shoreham-aircraft-museum.co.uk/opening.htm). I added these details to The Shoreham Aircraft Museum tearoom on the Kent cafe page.
 
-I copied the address, phone number and email address for Steep Street Coffee House from https://www.steepstreet.co.uk/contact/. The cafe description came https://www.steepstreet.co.uk/the-steep-street-coffee-house/. I added these details to the Steep Street Coffee House cafe on the Kent cafe page.
+I copied the address, phone number and email address for Steep Street Coffee House from [Steep Street Coffee House contact](https://www.steepstreet.co.uk/contact/). The cafe description came [Steep Street Coffee House](https://www.steepstreet.co.uk/the-steep-street-coffee-house/). I added these details to the Steep Street Coffee House cafe on the Kent cafe page.
 
-I copied the address and phone number for The Curious Cupcake Cafe from https://www.cupcakecafemargate.co.uk/ and the email address from https://www.cupcakecafemargate.co.uk/contact. I added these details to The Curious Cupcake Cafe on the Kent cafe page.
+I copied the address and phone number for The Curious Cupcake Cafe from [The Curious Cupcake Cafe](https://www.cupcakecafemargate.co.uk/) and the email address from [The Curious Cupcake Cafe contact](https://www.cupcakecafemargate.co.uk/contact). I added these details to The Curious Cupcake Cafe on the Kent cafe page.
 
 ##### Surrey Cafes
 
