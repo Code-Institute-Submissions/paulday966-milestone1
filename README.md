@@ -113,6 +113,18 @@ I used this website to check on what I would need to do to build some of my idea
 
 [w3schools.com](https://www.w3schools.com/)
 
+#### Stackoverflow
+
+I used this website to help explain the z-index for keeping the nav menu at the top of the screen when scolling
+
+[Stackoverflow](https://stackoverflow.com/)
+
+#### CSS Tricks
+
+I used this website to help explain the z-index for keeping the nav menu at the top of the screen when scolling
+
+[CSS Tricks](https://css-tricks.com/)
+
 #### W3C Markup Validation Service
 
 I used this website to make sure each page of html was correct, and then I was able to correct the mistakes.
