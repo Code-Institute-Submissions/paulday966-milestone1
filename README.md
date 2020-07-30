@@ -222,7 +222,9 @@ I copied the cafe image for Cronwells cafe from https://cromwellcoffeehouse.co.u
 
 #### Acknowledgments
 
-I got the inspiration for this project from cycling with the Cheam and Morden CTC group https://cheamandmorden.blogspot.com/ over many years. I found very few websites that had inforamtion about cafes in one place, and had to remember the cafe and website so I could look it up. 
+I got the inspiration for this project from cycling with the [Cheam and Morden CTC group](https://cheamandmorden.blogspot.com/) over many years. I found very few websites that had inforamtion about lots of different cafes in one place, and had to remember the cafe and website so I could look it up and get the details I needed.
+
+I would like to thank my friend Anja in the walking group I'm a member of for suggesting the title Quirky Cafes. This is much better than Cafe Locator, the title I was using, and makes it a more friendly and welcoming website. 
 
 Sent the following email to the following cafes asking permission to use their text and images.
 
