@@ -107,6 +107,36 @@ I used this to get the location of the cafe in Google Maps, and I was able to ad
 
 * [Embed Google Maps for website Maps generator for free](https://www.embedgooglemap.net/en/?gclid=Cj0KCQjwpNr4BRDYARIsAADIx9w2dCTRcQJCJxIXJn9gCWRinhuiUD1BjqXTQ-_3aUrx3Bvb5CRBA6EaAkWgEALw_wcB)
 
+#### W3 Schools
+
+I used this website to check on what I would need to do to build some of my ideas and also to make sure some of my code was correct. 
+
+[w3schools.com](https://www.w3schools.com/)
+
+#### W3C Markup Validation Service
+
+I used this website to make sure each page of html was correct, and then I was able to correct the mistakes.
+
+[Markup Validation Service](https://validator.w3.org/)
+
+#### W3C CSS Validation Service
+
+I used this website to make sure the style.css page was correct, and then I was able to correct the mistakes.
+
+[CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+#### Coolors.co
+
+I used this website to find the background colour for the pages.
+
+[Coolors](https://coolors.co/)
+
+#### Freefavicon
+
+I used this website to find a suitable fav icon.
+
+[Free favicon](https://www.freefavicon.com/)
+
 ### Testing
 
 
