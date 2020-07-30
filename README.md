@@ -181,11 +181,11 @@ I copied the address and phone number for The Curious Cupcake Cafe from [The Cur
 
 ##### Surrey Cafes
 
-I copied the address, phone number and email address for The Dabbling Duck from https://www.thedabblingduck.uk.com/. I copied the description from https://www.thedabblingduck.uk.com/pages/about-us. I added these details to The Dabbling Duck cafe on the Surrey cafe page.
+I copied the address, phone number and email address for The Dabbling Duck from [The Daddling Duck](https://www.thedabblingduck.uk.com/). I copied the description from [The Dabbling Duck about us](https://www.thedabblingduck.uk.com/pages/about-us). I added these details to The Dabbling Duck cafe on the Surrey cafe page.
 
-I copied the address and phone number for the cafe for The Headley Village Store and Tea room from https://www.headleytearoom.co.uk/contact. The email address came from https://www.facebook.com/pg/headleyvillagestores/about/?ref=page_internal. I copied the cafe description from https://www.headleytearoom.co.uk/. I added these details to The Headley Village Store and Tea room on the Surrey cafe page.
+I copied the address and phone number for the cafe for The Headley Village Store and Tea room from [Headley tearoom contact](https://www.headleytearoom.co.uk/contact). The email address came from [Headley tearoom about](https://www.facebook.com/pg/headleyvillagestores/about/?ref=page_internal). I copied the cafe description from [Headley tearoom about](https://www.headleytearoom.co.uk/). I added these details to The Headley Village Store and Tea room on the Surrey cafe page.
 
-I copied the address, phone number and email address for Cromwells from https://cromwellcoffeehouse.co.uk/. The description came from https://cromwellcoffeehouse.co.uk/about-us/. I added these details to the Cromwells cafe on the Surrey cafe page.
+I copied the address, phone number and email address for Cromwells from [Cromwells](https://cromwellcoffeehouse.co.uk/). The description came from [Cromwells about](https://cromwellcoffeehouse.co.uk/about-us/). I added these details to the Cromwells cafe on the Surrey cafe page.
 
 #### Media
 
