@@ -4,6 +4,8 @@
 
 [UX](https://github.com/paulday966/milestone1#ux)
 
+  [Wireframes](https://github.com/paulday966/milestone1#wireframemockupsforthedesktopsite)
+
 [Features](https://github.com/paulday966/milestone1#features)
 
 [Techologies used](https://github.com/paulday966/milestone1#techologiesused)
