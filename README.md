@@ -178,6 +178,12 @@ I used this website to find a suitable fav icon.
 
 ### Deployment
 
+To make it easier for me to test my website in different browers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Parallels desktop and my Mac mini. I tested the site in Chrome for Mac OSX and Windows, Safari and Microsoft Edge.
+
+To deploy it I followed these instructions
+
+1. 
+
 
 ### Credits
 
