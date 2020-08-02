@@ -180,9 +180,16 @@ I used this website to find a suitable fav icon.
 
 To make it easier for me to test my website in different browers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Parallels desktop and my Mac mini. I tested the site in Chrome for Mac OSX and Windows, Safari and Microsoft Edge.
 
-To deploy it I followed these instructions
+To deploy the website I followed these steps
 
-1. 
+1. Logged into my GitHub account
+2. Clicked on the link for my milestone1 project
+3. On the row of icons near the top of the screen underneath the repository name I clicked on the Settings option (the last option)
+4. Scroll down to the GitHub Pages section
+5. At the top of the GitHub Pages section there is a section called Source
+6. In this section I clicked on the dropdown menu called Branch and selected master
+7. Then I clicked on Save
+8. Once I had done that the published link appeared just above the source section, which is https://paulday966.github.io/milestone1/
 
 
 ### Credits
