@@ -6,13 +6,13 @@
 
 [Features](https://github.com/paulday966/milestone1#features)
 
-[Techologies used](https://github.com/paulday966/milestone1#techologiesused)
+[Techologies used](https://github.com/paulday966/milestone1#techologies-used)
 
 [Testing](https://github.com/paulday966/milestone1#testing)
 
 [Deployment](https://github.com/paulday966/milestone1#deployment)
 
-[Credits](https://github.com/paulday966/milestone1#Credits)
+[Credits](https://github.com/paulday966/milestone1#credits)
 
 The idea for this project came to me when I wanted to see a list of coffee shops in one place, but it wasn't easy to search for cafes in different counties in one place. I had to do multiple searches to find what I wanted. On my weekend bike rides I have discovered a lot of coffee shops, and some of them have a theme. To start with I decided to select three counties close to home and three coffee shops for each one, some with a theme and some without, but all of them welcoming. 
 
