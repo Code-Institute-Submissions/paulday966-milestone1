@@ -189,11 +189,11 @@ I copied the address, phone number and email address for Cromwells from [Cromwel
 
 #### Media
 
-The cafe image used for East Sussex cafes on the index.html page came from https://www.bluebellstearoom.co.uk/gallery.
+The cafe image used for East Sussex cafes on the index.html page came from [Bluebells Tearoom gallery](https://www.bluebellstearoom.co.uk/gallery)
 
-The cafe image used for Kent cafes on the index.html page came from http://www.shoreham-aircraft-museum.co.uk/teas.htm.
+The cafe image used for Kent cafes on the index.html page came from [Shoreham Aircarft mueseum teas](http://www.shoreham-aircraft-museum.co.uk/teas.htm)
 
-The cafe image used for Surrey cafes on the index.html page came from https://cromwellcoffeehouse.co.uk/about-us/.
+The cafe image used for Surrey cafes on the index.html page came from [Cromwells Coffee House about us](https://cromwellcoffeehouse.co.uk/about-us/)
 
 ##### East Sussex cafe images
 
