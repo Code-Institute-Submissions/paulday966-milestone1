@@ -10,6 +10,10 @@
 
 [Features](https://github.com/paulday966/milestone1#features)
 
+* [Existing features](https://github.com/paulday966/milestone1#xxisting-features)
+
+* [Features left to implement](https://github.com/paulday966/milestone1#features-left-to-implement)
+
 [Techologies used](https://github.com/paulday966/milestone1#technologies-used)
 
 [Testing](https://github.com/paulday966/milestone1#testing)
