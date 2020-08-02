@@ -48,7 +48,7 @@ For the younger people that have smartphones, they would be able to access the s
 
 ### Features
 
-### Existing features
+#### Existing features
 
 * Feature 1 - Location of cafe using an embeded Google Maps. The user can see at a glance where the cafe is and if they click on it Google Maps will open up in a new tab and give users the full Google Maps experience
 
@@ -58,11 +58,15 @@ For the younger people that have smartphones, they would be able to access the s
 
 * Feature 4 - Send cafe details. When the user clicks on the link for the contact Us page the user has the option to fill in details about a cafe they have found. The minimum details required are the cafe name and city, and a message pops up to remind them to fill these in if they haven't done so
 
-### Features left to implement
+#### Features left to implement
 
-A future update would be to add a photo gallery for each cafe, which displays their cakes and inside and or outside of the cafe. The user would be able to click on each image to expand it and easily close it.
+My first feature would be to add a photo gallery for each cafe, which displays images in a scrolling carousel of their cakes and inside and or outside of the cafe. The user would be able to click on each image to expand it, scroll through as many of the photos as the wish and easily close it when they are finished.
 
-Another feature is a section with links, descriptions and images for walks and places to visit in the nearby area. This could take the form of a database, or addtional pages with all of the information on them. The user will be able to print off the simple to follow walk descriptions. The walks would end at or near the cafe so the person could then visit the cafe. After the end of the visit to a nearby tourist attraction their will be directions to the cafe.
+Another feature would be a page split up into three sections with one for each county. Each section would have descriptions, links and images for walks and places to visit nearby each cafe. The links for places to visit would take the user to the website for that place. The links for walks would take the user to different webites with walk ideas.
+
+I would have a page with a Google Map on it to show where all of the cafes are
+
+My final update would be to connect this website to a database and have the infomation stored in that along with lots more cafes. The user would be able to searcvh for for a cafe based on search criteria.
 
 ### Technologies used
 
