@@ -201,6 +201,8 @@ If I wanted to download my code so I could work off line I would follow these st
 6. Clicking on the Open with Github Desktop option will, if you haven't already got it installed, bring up a page asking you to download GitHub Desktop for your operating system
 7. Clicking on Download ZIP will download a zip file with the project in it
 
+There is no need to use external hosting for this project as GitHub Pages can generate a link that allows me to access the website on mobile devices and desktops anywhere I want. This is becuase this project doesn't have a back end to it such as a database. It only has static pages. This will also save a lot of time as I don't have to go through the process of setting up an account with an external hosting company and making sure the site gets transfered accross properly and GitHub is free to use.
+
 ### Credits
 
 #### Content
