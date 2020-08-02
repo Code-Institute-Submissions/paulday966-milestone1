@@ -197,11 +197,11 @@ The cafe image used for Surrey cafes on the index.html page came from [Cromwells
 
 ##### East Sussex cafe images
 
-I copied the cafe image the Winnie the Pooh cafe from https://www.poohcorner.co.uk/.
+I copied the cafe image the Winnie the Pooh cafe from [Pooh Corner](https://www.poohcorner.co.uk/)
 
-I copied the cafe image for the Hanushka Coffee House cafe from https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/photos/?ref=page_internal.
+I copied the cafe image for the Hanushka Coffee House from [Hanushka Coffee House Facebook photos page](https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/photos/?ref=page_internal)
 
-I copied the cafe image for the Bluebells Tearoom from https://www.bluebellstearoom.co.uk/gallery.
+I copied the cafe image for the Bluebells Tearoom from [Bluebells Tearoom gallery](https://www.bluebellstearoom.co.uk/gallery)
 
 ##### Kent cafe images
 
