@@ -207,19 +207,19 @@ I copied the cafe image for the Bluebells Tearoom from [Bluebells Tearoom galler
 
 ##### Kent cafe images
 
-I copied the cafe image The Shoreham Aircraft Museum tearoom from http://www.shoreham-aircraft-museum.co.uk/teas.htm.
+I copied the cafe image The Shoreham Aircraft Museum tearoom from [Shoreham Aircarft mueseum teas](http://www.shoreham-aircraft-museum.co.uk/teas.htm)
 
-I copied the cafe image for the Steep Street Coffee House cafe from https://www.facebook.com/pg/Steepstreet/photos/?tab=album&album_id=1029824603734471&ref=page_internal.
+I copied the cafe image for the Steep Street Coffee House cafe from [Steep Street Coffee House Facebook photos page](https://www.facebook.com/pg/Steepstreet/photos/?tab=album&album_id=1029824603734471&ref=page_internal)
 
-I copied the cafe image for The Curious Cupcake Cafe from https://www.cupcakecafemargate.co.uk/.
+I copied the cafe image for The Curious Cupcake Cafe from [The Curious Cupcake Cafe](https://www.cupcakecafemargate.co.uk/)
 
 ##### Surrey Cafes
 
-I copied the cafe image The Dabbling Duck cafe from https://www.thedabblingduck.uk.com/pages/about-us.
+I copied the cafe image The Dabbling Duck cafe from [The Dabbling Duck about us](https://www.thedabblingduck.uk.com/pages/about-us)
 
-I copied the cafe image for The Headley Village Store and Tearoom from https://www.facebook.com/pg/headleyvillagestores/photos/?tab=album&album_id=254500014918830&ref=page_internal.
+I copied the cafe image for The Headley Village Store and Tearoom from [The Headley Village Store and Tearoom Facebook photos page](https://www.facebook.com/pg/headleyvillagestores/photos/?tab=album&album_id=254500014918830&ref=page_internal)
 
-I copied the cafe image for Cronwells cafe from https://cromwellcoffeehouse.co.uk/about-us/.
+I copied the cafe image for Cronwells cafe from [Cromwells Coofee House about us](https://cromwellcoffeehouse.co.uk/about-us/)
 
 
 #### Acknowledgments
