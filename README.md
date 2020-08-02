@@ -6,6 +6,8 @@
 
 * [Wireframe mockups for desktop site](https://github.com/paulday966/milestone1#wireframe-mockups-for-the-desktop-site)
 
+* [Wireframe mockups for mobile site](https://github.com/paulday966/milestone1#wireframe-mockups-for-the-mobile-site)
+
 [Features](https://github.com/paulday966/milestone1#features)
 
 [Techologies used](https://github.com/paulday966/milestone1#technologies-used)
