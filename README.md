@@ -191,6 +191,15 @@ To deploy the website I followed these steps
 7. Then I clicked on Save
 8. Once I had done that the published link appeared just above the source section, which is https://paulday966.github.io/milestone1/
 
+If I wanted to download my code so I could work off line I would follow these steps
+
+1. Log into my GitHub account
+2. Click on the link for my milestone1 project
+3. On the row of icons near the top of the screen underneath the repository name click on the <> Code option (the first option)
+4. Just underneath this row of options, click on the green button labbelled Code with two downward facing arrows
+5. Three options will appear in the dropdown. The first one will allow you to Clone with HTTPS, the second one will allow you to Open with GitHub Desktop and the option will allow you to download a zip file with all of the files in it
+6. Clicking on the Open with Github Desktop option will, if you haven't already got it installed, bring up a page asking you to download GitHub Desktop for your operating system
+7. Clicking on Download ZIP will download a zip file with the project in it
 
 ### Credits
 
