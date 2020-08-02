@@ -5,20 +5,35 @@
 [UX](https://github.com/paulday966/milestone1#ux)
 
 * [Wireframe mockups for desktop site](https://github.com/paulday966/milestone1#wireframe-mockups-for-the-desktop-site)
-
 * [Wireframe mockups for mobile site](https://github.com/paulday966/milestone1#wireframe-mockups-for-the-mobile-site)
 
 [Features](https://github.com/paulday966/milestone1#features)
 
 * [Existing features](https://github.com/paulday966/milestone1#existing-features)
-
 * [Features left to implement](https://github.com/paulday966/milestone1#features-left-to-implement)
 
 [Techologies used](https://github.com/paulday966/milestone1#technologies-used)
 
+* [HTML5](https://github.com/paulday966/milestone1#html5)
+* [CSS3](https://github.com/paulday966/milestone1#css3)
+* [Bootstrap](https://github.com/paulday966/milestone1#bootstrap)
+* [Font Awesome](https://github.com/paulday966/milestone1#font-awsome)
+* [Google Fonts](https://github.com/paulday966/milestone1#google-fonts)
+* [Github](https://github.com/paulday966/milestone1#github)
+* [Gitpod](https://github.com/paulday966/milestone1#gitpod)
+* [Embed Google Maps](https://github.com/paulday966/milestone1#embeb-google-maps)
+* [W3 Schools](https://github.com/paulday966/milestone1#w3-schools)
+* [Stackoverflow](https://github.com/paulday966/milestone1#stackoverflow)
+* [CSS Tricks](https://github.com/paulday966/milestone1#css-tricks)
+* [Coolors.co](https://github.com/paulday966/milestone1#coolers-co)
+* [Freefavicon](https://github.com/paulday966/milestone1#freefavicon)
+
 [Testing](https://github.com/paulday966/milestone1#testing)
 
 [Deployment](https://github.com/paulday966/milestone1#deployment)
+
+
+
 
 [Credits](https://github.com/paulday966/milestone1#credits)
 
