@@ -25,7 +25,7 @@
 * [W3 Schools](https://github.com/paulday966/milestone1#w3-schools)
 * [Stackoverflow](https://github.com/paulday966/milestone1#stackoverflow)
 * [CSS Tricks](https://github.com/paulday966/milestone1#css-tricks)
-* [Coolors.co](https://github.com/paulday966/milestone1#coolersco)
+* [Coolors.co](https://github.com/paulday966/milestone1#coolorsco)
 * [Freefavicon](https://github.com/paulday966/milestone1#freefavicon)
 
 [Testing](https://github.com/paulday966/milestone1#testing)
