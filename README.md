@@ -6,7 +6,7 @@
 
 [Features](https://github.com/paulday966/milestone1#features)
 
-[Techologies used](https://github.com/paulday966/milestone1#techologies-used)
+[Techologies used](https://github.com/paulday966/milestone1#technologies-used)
 
 [Testing](https://github.com/paulday966/milestone1#testing)
 
