@@ -168,18 +168,6 @@ I used this website to help explain the z-index for keeping the nav menu at the 
 
 [CSS Tricks](https://css-tricks.com/)
 
-#### W3C Markup Validation Service
-
-I used this website to make sure each page of html was correct, and then I was able to correct the mistakes.
-
-[Markup Validation Service](https://validator.w3.org/)
-
-#### W3C CSS Validation Service
-
-I used this website to make sure the style.css page was correct, and then I was able to correct the mistakes.
-
-[CSS Validation Service](https://jigsaw.w3.org/css-validator/)
-
 #### Coolors.co
 
 I used this website to find the background colour for the pages.
@@ -194,6 +182,17 @@ I used this website to find a suitable fav icon.
 
 ### Testing
 
+#### W3C Markup Validation Service
+
+I used this website to make sure each page of html was correct, and then I was able to correct the mistakes.
+
+[Markup Validation Service](https://validator.w3.org/)
+
+#### W3C CSS Validation Service
+
+I used this website to make sure the style.css page was correct, and then I was able to correct the mistakes.
+
+[CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
 ### Deployment
 
