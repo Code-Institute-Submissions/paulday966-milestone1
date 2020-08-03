@@ -158,7 +158,7 @@ I have used a Github repository to store all of the html and css files, the imag
 
 I used Gitpod to write and save the html files and CSS and store the CSS in a folder. It was also used to upload the images and wireframes into seperate folders. All of the work was saved bit by bit by using git commands.
 
-* [Gitpod](https://cd5781b0-ba09-43db-ba86-1aa063eb2cd6.ws-eu01.gitpod.io/#/workspace/milestone1)
+* [Gitpod](https://www.gitpod.io/)
 
 #### Embed Google Maps
 
