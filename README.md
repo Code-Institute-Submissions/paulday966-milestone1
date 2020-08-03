@@ -48,9 +48,11 @@ I wanted to change that by creating a website that has information and links to 
 
 ### UX
 
-To start with I decided to select three counties close to home and three coffee shops for each one, some with a theme and some without, but all of them welcoming. 
+This website is for both the young and old who want to find out information about cafes quickly and easily. When they come to the website they can choose between three counties. After clicking on one of the options they will see the cafes for that county with an image of the cafe, a description and information about the place split up into four sections. Each section provides easy to see and read infomation to help the user select a cafe. The information provides basic at a glance information, such as outdoor seating, public transport links and snacks or cakes. The how to find us section has the cafe pinned on a Google Maps location card which can be expanded to fill an entire tab or Google Maps app. Then there is the opening hours section and the contact us section, with address, phone number, email address and website link.
 
-I wanted the older generations to have access to a list of coffee shops in different counties in one place so they can browse through them. It would be easy for them to see the key information then be able to go to their website for further information.
+* As a user type, I want to perform an action, so that I can achieve a goal
+
+The first user type I wanted the older generations to have access to a list of coffee shops in different counties in one place so they can browse through them. It would be easy for them to see the key information then be able to go to their website for further information.
 
 For the younger people that have smartphones, they would be able to access the site, see the key information and use Google Maps to guide them to the cafe.
 
