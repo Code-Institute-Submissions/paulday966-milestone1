@@ -30,6 +30,9 @@
 
 [Testing](https://github.com/paulday966/milestone1#testing)
 
+* [W3C Markup Validation Service](https://github.com/paulday966/milestone1#w3-markup-validation-services)
+* [W3C CSS Validation Service](https://github.com/paulday966/milestone1#w3c-css-validation-service)
+
 [Deployment](https://github.com/paulday966/milestone1#deployment)
 
 
