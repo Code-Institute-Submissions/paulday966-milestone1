@@ -212,15 +212,25 @@ To deploy the website I followed these steps
 7. Then I clicked on Save
 8. Once I had done that the published link appeared just above the source section, which is https://paulday966.github.io/milestone1/
 
-If I wanted to download my code so I could work off line I would follow these steps
+If I wanted to download my code so I could work off line I would follow these steps. Follow these steps to get to the options
 
 1. Log into my GitHub account
 2. Click on the link for my milestone1 project
 3. On the row of icons near the top of the screen underneath the repository name click on the <> Code option (the first option)
 4. Just underneath this row of options, click on the green button labbelled Code with two downward facing arrows
-5. Three options will appear in the dropdown. The first one will allow you to Clone with HTTPS, the second one will allow you to Open with GitHub Desktop and the option will allow you to download a zip file with all of the files in it
-6. Clicking on the Open with Github Desktop option will, if you haven't already got it installed, bring up a page asking you to download GitHub Desktop for your operating system
-7. Clicking on Download ZIP will download a zip file with the project in it
+5. Three options will appear in the dropdown.
+
+#### Option 1 Clone with HTTPS
+
+The first one will allow you to Clone with HTTPS
+
+#### Option 2 Open with GitHub Desktop
+
+Clicking on the second one will allow you to Open with GitHub Desktop. If you don't have the program installed it will take you to a webpage where you will be given the option to download the program for your operating system.
+
+#### Option 3 Download ZIP
+
+The third option will allow you to download a zip file with all of the files in it to your computer.
 
 There is no need to use external hosting for this project as GitHub Pages can generate a link that allows me to access the website on mobile devices and desktops anywhere I want. This is becuase this project doesn't have a back end to it such as a database. It only has static pages. This will also save a lot of time as I don't have to go through the process of setting up an account with an external hosting company and making sure the site gets transfered accross properly and GitHub is free to use.
 
