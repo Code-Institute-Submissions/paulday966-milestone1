@@ -94,13 +94,13 @@ The second user type would be the younger generation that have smartphones. They
 
 #### Features left to implement
 
-My first feature would be to add a photo gallery for each cafe, which displays images in a scrolling carousel of their cakes and inside and or outside of the cafe. The user would be able to click on each image to expand it, scroll through as many of the photos as the wish and easily close it when they are finished.
+My first feature would be to add a photo gallery for each cafe, which displays images in a scrolling carousel of their cakes and inside and or outside of the cafe. The user would be able to click on each image to expand it, scroll through as many of the photos as the wish and easily close it when they have finished.
 
-Another feature would be a page split up into three sections with one for each county. Each section would have descriptions, links and images for walks and places to visit nearby each cafe. The links for places to visit would take the user to the website for that place. The links for walks would take the user to different webites with walk ideas.
+Another feature would be a page split up into three sections with one for each county. Each section would have descriptions, links and images for walks and places to visit near each cafe. The links for places to visit would take the user to the website for that place. The links for walks would take the user to different webites with walk ideas.
 
-I would have a page with a Google Map on it to show where all of the cafes are
+I would have a page with a Google Map on it to show where all of the cafes are, as another way to search.
 
-My final update would be to connect this website to a database and have the infomation stored in that along with lots more cafes. The user would be able to searcvh for for a cafe based on search criteria.
+My final update would be to connect this website to a database and have the infomation stored in that along with lots more cafes. The user would be able to search for a cafe based on search filters.
 
 ### Technologies used
 
