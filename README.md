@@ -52,9 +52,9 @@ This website is for both the young and old who want to find out information abou
 
 * As a user type, I want to perform an action, so that I can achieve a goal
 
-The first user type I wanted the older generations to have access to a list of coffee shops in different counties in one place so they can browse through them. It would be easy for them to see the key information then be able to go to their website for further information.
+The first user type would be the older generations, who might not have access to smart phones. I want the user to be able to quickly access the list of cafes, with clear and easy to read information. This information can be printed off or written down so they can view it later when they need it.
 
-For the younger people that have smartphones, they would be able to access the site, see the key information and use Google Maps to guide them to the cafe.
+The second user type would be the younger generation that have smartphones. They would be able to access the site on their smartphone or tablet see the key information such as address and use Google Maps to guide them to the cafe.
 
 #### Wireframe mockups for the desktop site
 
