@@ -42,9 +42,13 @@
 * [Ackowledgements](https://github.com/paulday966/milestone1#acknowledgments)
 
 
-The idea for this project came to me when I wanted to see a list of coffee shops in one place, but it wasn't easy to search for cafes in different counties in one place. I had to do multiple searches to find what I wanted. On my weekend bike rides I have discovered a lot of coffee shops, and some of them have a theme. To start with I decided to select three counties close to home and three coffee shops for each one, some with a theme and some without, but all of them welcoming. 
+The idea for this project came to me when I wanted to see a list of coffee shops in different towns and counties on one website. Unfortunately I found this difficult, as I had to do multiple searches to find what I wanted. On my weekend bike rides I have discovered lots of coffee shops, and some of them have a theme.
+
+I wanted to change that by creating a website that has information and links to cafes in different towns and counties.
 
 ### UX
+
+To start with I decided to select three counties close to home and three coffee shops for each one, some with a theme and some without, but all of them welcoming. 
 
 I wanted the older generations to have access to a list of coffee shops in different counties in one place so they can browse through them. It would be easy for them to see the key information then be able to go to their website for further information.
 
