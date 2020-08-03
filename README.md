@@ -110,23 +110,28 @@ HTML5 was used to build the pages and display the text and images on the screen.
 
 #### CSS3
 
-CSS3 was used to style the cafe images and descriptions on each of the pages. This is to allow the users to view the images and text properly and clearly on large, medium and small screens.
+CSS3 was used to style the cafe images, descriptions, titles and lists on each page. This is to allow the users to view the images and text properly and clearly on large, medium and small screens.
 
 #### Bootstrap
 
 * [Bootstrap](https://getbootstrap.com/)
 
-Bootstrap was used to create the two sections of the contact us page by clicking on the copy html link and pasting them on to the page. Booststrap was also used to add the column classes to the divs within rows, so the content would change responsivley on large, medium and small screen sizes.
+Bootstrap was used to create and format the following:
+
+* The two sections of the contact us page by clicking on the copy html link and pasting the html on to the contact us page
+* It was used to add the column classes to the divs within rows so the content would change responsivley on large, medium and small screen sizes and be clear and   easy to read
+* To create the information cards that display the information about each cafe
+* To create the navigation menu at the top of the screen including the dropdown menu
 
 #### Font Awesome
 
 * [Font Awesome](https://fontawesome.com/)
 
-Font Awesome was used to add icons at the beginning of the following paragraph's in the cafe's contact details:
+Font Awesome was used to add icons at the beginning of the following paragraph's in the cafe's contact us details:
 
 * Address
-* Phone
-* Email
+* Phone number
+* Email address
 * Website
 
 It was also used for the following items in the At a glance for each cafe:
