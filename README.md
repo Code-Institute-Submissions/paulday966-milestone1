@@ -156,13 +156,13 @@ I have used a Github repository to store all of the html and css files, the imag
 
 #### Gitpod
 
-I used Gitpod to write and save the html files and CSS and store the CSS in a folder. It was also used to upload the images and wireframes into seperate folders. All of the work was saved bit by bit by using git commands.
+I used Gitpod to write and save the html files and CSS and store the CSS in a folder. It was also used to upload the images and wireframes into seperate folders. All of the work was saved to the repository for this project bit by bit by using git commands.
 
 * [Gitpod](https://www.gitpod.io/)
 
 #### Embed Google Maps
 
-I used this to get the location of the cafe in Google Maps, and I was able to adjust the size of the map to my requirements.
+I used this website to input the cafe's location, so that the location comes up on the on screen Google Map. Before generating the code I needed I was able to adjust the size of the map to my requirements. Once the code was generated I pasted it into the info card and deleted the parts I didn't need.
 
 * [Embed Google Maps for website Maps generator for free](https://www.embedgooglemap.net/en/?gclid=Cj0KCQjwpNr4BRDYARIsAADIx9w2dCTRcQJCJxIXJn9gCWRinhuiUD1BjqXTQ-_3aUrx3Bvb5CRBA6EaAkWgEALw_wcB)
 
