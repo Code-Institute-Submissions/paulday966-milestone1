@@ -318,7 +318,11 @@ I copied the cafe image for Cronwells cafe from [Cromwells Coofee House about us
 
 I got the inspiration for this project from cycling with the [Cheam and Morden CTC group](https://cheamandmorden.blogspot.com/) over many years. I found very few websites that had inforamtion about lots of different cafes in one place, and had to remember the cafe and website so I could look it up and get the details I needed.
 
-I would like to thank my friend Anja in the walking group I'm a member of for suggesting the title Quirky Cafes. This is much better than Cafe Locator, the title I was using, and makes it a more friendly and welcoming website. 
+I would like to thank my tutor Aaron Sinnott for helping me with this project, answering my questions and giving me advice and suggestions. It has been really useful and has helped me to think about each part and how I can improve it.
+
+I would like to thank my friend Anja in the walking group I'm a member of for suggesting the title Quirky Cafes. This is much better than Cafe Locator, the title I was originally using.
+
+I would also like to thank two other friends in the walking group Andrew Dodd and Helen Sheen for reviewing my site on Windows, Mac and smartphone. They pointed out errors, which I was able to fix.
 
 Sent the following email to the nine cafes used in this website asking for their permission to use their text and images.
 
@@ -331,5 +335,3 @@ With your permission I would like to use the text and images from your website, 
 Thank you
 
 Paul Day
-
-
