@@ -211,7 +211,13 @@ I used this website to make sure the style.css page was correct, and then I was 
 
 ### Testing
 
+I have not automated my testing, so below are the steps to achieve the following based on the user stories in the UX section.
 
+Counties
+
+Google Maps
+
+Contact form
 
 ### Deployment
 
