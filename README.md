@@ -196,8 +196,6 @@ I used this website to find a suitable fav icon.
 
 [Free favicon](https://www.freefavicon.com/)
 
-### Testing
-
 #### W3C Markup Validation Service
 
 I used this website to make sure each page of html was correct, and then I was able to correct the mistakes.
@@ -209,6 +207,10 @@ I used this website to make sure each page of html was correct, and then I was a
 I used this website to make sure the style.css page was correct, and then I was able to correct the mistakes.
 
 [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+### Testing
+
+
 
 ### Deployment
 
