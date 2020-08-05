@@ -211,13 +211,21 @@ I used this website to make sure the style.css page was correct, and then I was 
 
 ### Testing
 
-I have not automated my testing, so below are the steps to achieve the following based on the user stories in the UX section.
+I have not automated my testing, so below are the steps to achieve the following
 
-Counties
+1. Go to one of the counties
+* i Click on the Counties link in the navigation menu
+* ii Click on one of the three options in the list. The options are: East Sussex, Kent and Surrey
+* iii The selected page will open and you can browse the list and read about the cafes
 
-Google Maps
+2. How to find Us using Google Maps
+* i Follow the steps in step 1. Go to one of the counties
+* ii Find the cafe you want and you will see the Google Map
+* iii The user can click on the plus or minus signs in the bottom right hand corner of the How to find us card to zoom in or out. This will help them see more or less of the area
+* iv The user can also click on the View larger map link near the top left hand corner and the map will open up in Google Maps if it's installed, or into the default browser
 
 Contact form
+
 
 ### Deployment
 
