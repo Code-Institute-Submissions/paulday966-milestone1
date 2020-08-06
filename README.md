@@ -224,12 +224,16 @@ I have not automated my testing, so below are the steps to achieve the following
 * iii The user can click on the plus or minus signs in the bottom right hand corner of the How to find us card to zoom in or out. This will help them see more or less of the area
 * iv The user can also click on the View larger map link near the top left hand corner and the map will open up in Google Maps if it's installed, or into the default browser
 
-3. Contact Us. This page has two parts. The first part is Newsletter signup at the top of the page
+3a. Contact Us. This page has two parts. The first part is Newsletter signup at the top of the page. I have added placeholder text to show the user how the email address should look when it's typed in
 * i Click on the Contact Us link on the navigation menu
-* ii If I click on the Submit button without entering my name a message pops up saying Please fill in this field and it won't sumbit anything
-* iii If I type my name in, but leave the email addrerss field blank and click on Submit a message pops up saying Please fill in this field. I have added placeholder text to show the user how it should look when it's typed in
-* iv If the name has been added and only part of the email address has been added and the user clicks on Submit a message pops up. It says different things depending on how much has been typed in
-*
+* ii If I click on the Submit button without entering my name a message pops up saying Please fill in this field and nothing will be sumbitted
+* iii For this part of the test I used the email address test@example.co.uk. If I type my name in, but leave the email address field blank and click on Submit a message pops up underneath the email address field saying Please fill in this field
+* iv If the name has been added to the name field, but only the first part of the email address has been added and the user clicks on Submit a message pops up underneath the email address field. It says Please include an '@' in the email address. 'test' is missing an '@'
+* v If the name has been added to the name field, but only the first part and the @ symbol have been entered a message pops up underneath the email address field and says. Please enter a part following '@'. 'test@' is incomplete
+* vi If the name has been added to the name field and the email address is missing the last part so it looks like test@example a message pops up underneath the email address field and says. Please match the format requested
+* vii The same message, Please match the format requested pops up if the email address looks like this. test@example.co
+* viii If I type the same as the previous step but a dot after the co the message pops up and says. '.' is used at the wrong position in 'example.co.'.
+* ix If I type in my name and the email address in the correct format, test@example.co.uk and click on Submit it is successful. A box pops up with the message Thanks for subscribing to our newsletter. If I click on the OK button in the pop up message it dissappears and the text in both fields is removed
 
 ### Deployment
 
