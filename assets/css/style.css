@@ -185,6 +185,30 @@ p.intro-text {
     margin: 3rem;
 }
 
+/* Validation */
+
+/* input:valid {
+    border:  2px solid lightgreen;
+}
+
+input:invalid {
+    border: 2px solid red;
+} */
+
+/* On focus */
+
+input[type=text]:focus {
+    border: 1px solid black;
+}
+
+input[type=email]:focus {
+    border: 1px solid black;
+}
+
+input[type=url]:focus {
+    border: 1px solid black;
+}
+
 /* Other items */
 
 .map-size {
