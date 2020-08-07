@@ -226,7 +226,7 @@ I have not automated my testing, so below are the steps to achieve the following
 
 3a. Contact Us. This page has two parts. The first part is Newsletter signup at the top of the page. I have added placeholder text to show the user how the email address should look when it's typed in
 * i Click on the Contact Us link on the navigation menu
-* ii If I click on the Submit button without entering my name a message pops up saying Please fill in this field and nothing will be sumbitted
+* ii If I click on the Submit button without entering my name or email address a message pops up underneath the Name field and says the following. Please fill in this field and nothing will be sumbitted
 * iii For this part of the test I used the email address test@example.co.uk. If I type my name in, but leave the email address field blank and click on Submit a message pops up underneath the email address field saying Please fill in this field
 * iv If the name has been added to the name field, but only the first part of the email address has been added and the user clicks on Submit a message pops up underneath the email address field. It says Please include an '@' in the email address. 'test' is missing an '@'
 * v If the name has been added to the name field, but only the first part and the @ symbol have been entered a message pops up underneath the email address field and says. Please enter a part following '@'. 'test@' is incomplete
@@ -234,6 +234,15 @@ I have not automated my testing, so below are the steps to achieve the following
 * vii The same message, Please match the format requested pops up if the email address looks like this. test@example.co
 * viii If I type the same as the previous step but a dot after the co the message pops up and says. '.' is used at the wrong position in 'example.co.'.
 * ix If I type in my name and the email address in the correct format, test@example.co.uk and click on Submit it is successful. A box pops up with the message Thanks for subscribing to our newsletter. If I click on the OK button in the pop up message it dissappears and the text in both fields is removed
+
+3b. Contact Us. The second part of the Contact Us form is the cafe request form. I have added placeholder text in the cafe website address field to show how it should look
+* i Click on the Contact Us link in the navigation menu
+* ii If I click on the Submit button without typing text into any of the fields a message pops up underneath the Cafe Name field which says Please fill in this field
+* iii If I type in a cafe name and nothing else the form won't be submitted because a message pops up underneath the Cafe website address field and says Please fill in this field
+* iv For this part of the test I used the website address https://cafetest.com. If I type in the cafe name and the first part of the website address, http:// or https://, or any part of this a message pops up saying Please enter a URL
+* v If I type in the cafe name and the first part of the website address, http:// or https:// and cafetest, then click on Submit the cursor moves to City and a message pops up saying Please fill in this field. Nothing is submitted. The cafe website address field accepts http://cafetest or https://cafetest and doesn't ask for .com or dot something else. I have added the following text underneath the cafe website address which says the following. You can copy the website address of the cafe into this box
+* vi If I type in the cafe name, the website address and the city then click on submit a dialog box pops. The message says Thank you for sending us details of the cafe and there is an OK button. If I click on OK the box disappears and the boxes that have been filled in are now empty
+* vii 
 
 ### Deployment
 
