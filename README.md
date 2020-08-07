@@ -242,7 +242,9 @@ I have not automated my testing, so below are the steps to achieve the following
 * iv For this part of the test I used the website address https://cafetest.com. If I type in the cafe name and the first part of the website address, http:// or https://, or any part of this a message pops up saying Please enter a URL
 * v If I type in the cafe name and the first part of the website address, http:// or https:// and cafetest, then click on Submit the cursor moves to City and a message pops up saying Please fill in this field. Nothing is submitted. The cafe website address field accepts http://cafetest or https://cafetest and doesn't ask for .com or dot something else. I have added the following text underneath the cafe website address which says the following. You can copy the website address of the cafe into this box
 * vi If I type in the cafe name, the website address and the city then click on submit a dialog box pops. The message says Thank you for sending us details of the cafe and there is an OK button. If I click on OK the box disappears and the boxes that have been filled in are now empty
-* vii 
+* vii The cafe name, website address and city are required fields, as I thought that would be the minimum required to find more about the cafe
+* viii The remaining fields are address, postcode and Do you have any additonal information that would be useful? are optional.
+* ix If I type text in any of the fields I can cancel this request and clear the fields by clicking on the Cancel button
 
 ### Deployment
 
