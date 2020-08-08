@@ -341,7 +341,7 @@ The cafe image used for Surrey cafes on the index.html page came from [Cromwells
 
 ##### East Sussex cafe images
 
-I copied the cafe image the Winnie the Pooh cafe from [Pooh Corner](https://www.poohcorner.co.uk/)
+I copied the cafe image for the Winnie the Pooh cafe from [Pooh Corner](https://www.poohcorner.co.uk/)
 
 I copied the cafe image for the Hanushka Coffee House from [Hanushka Coffee House Facebook photos page](https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/photos/?ref=page_internal)
 
@@ -361,10 +361,10 @@ I copied the cafe image The Dabbling Duck cafe from [The Dabbling Duck about us]
 
 I copied the cafe image for The Headley Village Store and Tearoom from [The Headley Village Store and Tearoom Facebook photos page](https://www.facebook.com/pg/headleyvillagestores/photos/?tab=album&album_id=254500014918830&ref=page_internal)
 
-I copied the cafe image for Cronwells cafe from [Cromwells Coofee House about us](https://cromwellcoffeehouse.co.uk/about-us/)
+I copied the cafe image for Cromwells cafe from [Cromwells Coofee House about us](https://cromwellcoffeehouse.co.uk/about-us/)
 
 
-#### Acknowledgments
+### Acknowledgments
 
 I got the inspiration for this project from cycling with the [Cheam and Morden CTC group](https://cheamandmorden.blogspot.com/) over many years. I found very few websites that had inforamtion about lots of different cafes in one place, and had to remember the cafe and website so I could look it up and get the details I needed.
 
