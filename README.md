@@ -331,6 +331,10 @@ I copied the address, phone number and email address for Cromwells from [Cromwel
 
 ### Media
 
+#### Happy coffee image
+
+The image happy coffee came from [Pexels](https://www.pexels.com/photo/happy-coffee-6347/), which I used as a temporary image while I built the website
+
 #### Index page images
 
 The cafe image used for East Sussex cafes on the index.html page came from [Bluebells Tearoom gallery](https://www.bluebellstearoom.co.uk/gallery)
