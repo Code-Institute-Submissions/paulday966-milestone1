@@ -212,7 +212,7 @@ I used this website to make sure the style.css page was correct, and then I was 
 
 I used this website to make sure the file my_functions.js was correct, and then I was able to correct the mistakes.
 
-http://beautifytools.com/javascript-validator.php
+[Online JavaScript validator](http://beautifytools.com/javascript-validator.php)
 
 ### Testing
 
