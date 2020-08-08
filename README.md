@@ -262,14 +262,14 @@ While I have been building this website I found lots of bugs and errors which I 
 
 ### Deployment
 
-To make it easier for me to test my website in different browers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Parallels desktop and my Mac mini.
+To make it easier for me to test my website in different browers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Windows running in Parallels and on my Mac.
 
 To deploy the website I followed these steps
 
 1. Logged into my GitHub account
 2. Clicked on the link for my milestone1 project
 3. On the row of icons near the top of the screen underneath the repository name I clicked on the Settings option (the last option)
-4. Scroll down to the GitHub Pages section
+4. Scrolled down to the GitHub Pages section
 5. At the top of the GitHub Pages section there is a section called Source
 6. In this section I clicked on the dropdown menu called Branch and selected master
 7. Then I clicked on Save
@@ -289,13 +289,13 @@ The first one will allow you to Clone with HTTPS
 
 #### Option 2 Open with GitHub Desktop
 
-Clicking on the second one will allow you to Open with GitHub Desktop. If you don't have the program installed it will take you to a webpage where you will be given the option to download the program for your operating system.
+Clicking on the second option will allow you to Open with GitHub Desktop. If you don't have the program installed it will take you to a webpage where you will be given the option to download the program for your operating system.
 
 #### Option 3 Download ZIP
 
 The third option will allow you to download a zip file with all of the files in it to your computer.
 
-There is no need to use external hosting for this project as GitHub Pages can generate a link that allows me to access the website on mobile devices and desktops anywhere I want. This is becuase this project doesn't have a back end to it such as a database. It only has static pages. This will also save a lot of time as I don't have to go through the process of setting up an account with an external hosting company and making sure the site gets transfered accross properly and GitHub is free to use.
+There is no need to use external hosting for this project as GitHub Pages can generate a link that allows me to access the website on mobile devices and desktops anywhere I want. I'm able to use GitHub pages because this project doesn't have a back end to it such as a database. It only has static pages. This will also save a lot of time as I don't have to go through the process of setting up an account with an external hosting company and making sure the site gets transfered accross properly and GitHub is free to use.
 
 ### Credits
 
