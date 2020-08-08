@@ -301,13 +301,13 @@ There is no need to use external hosting for this project as GitHub Pages can ge
 
 #### Content
 
-The navigation menu for each page was copied from the mobile first Whiskey Drop mini project I created during the previous module. CHECK THIS. This menu was exactly what I needed, so I changed all of the links and names of the links to the pages in my project and added in the contact page. I deleted the sign up section.
+The navigation menu for each page was copied from the mobile first Whiskey Drop mini project I created earlier in the course. This menu was exactly what I needed, so I changed all of the links and names of the links to the pages in my project and added in the contact page. As I didn't need the sign up section this was deleted.
 
-I copied the footer from the resume project, then deleted the links to LinkedIn, Pinterest and YouTube. I changed the name from Social to Social Media and removed the uppercase and general-sub classes. I added my own class to the social media title of footer-heading and changed the social-links class to social-media-links. I deleted the download CV link as it wasn't needed and removed the wording for the about section and added my own wording. I removed the uppercase and general-sub classes and added the footer-heading class and changed the title from About to About Us.
+I copied the footer from the resume project created ealier in the course, then deleted the links to LinkedIn, Pinterest and YouTube. I changed the name from Social to Social Media and removed the uppercase and general-sub classes. I added my own class to the social media title of footer-heading and changed the social-links class to social-media-links. I deleted the download CV link as this wasn't needed and deleted the wording for the about section and added my own wording. I removed the uppercase and general-sub classes and added the footer-heading class, then I deleted the About title.
 
 ##### East Sussex Cafes
 
-I copied the description text, address, phone number and the email address for the cafe for Pooh Corner cafe from [Pooh Corner](https://www.poohcorner.co.uk/). I added these details to the Winnie the Pooh cafe on the East Sussex cafe page.
+I copied the description text, address, phone number and the email address for the cafe for Pooh Corner from [Pooh Corner](https://www.poohcorner.co.uk/). I added these details to the Winnie the Pooh cafe on the East Sussex cafe page.
 
 I copied the description text, address, phone number and email address for Hanushka Coffee House from [Hanushka Coffee House](https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/about/?ref=page_internal). I added these details to the Hanushka Coffee House cafe on the East Sussex cafe page.
 
@@ -317,7 +317,7 @@ I copied the address, tearooms phone number and email address for Bluebells Tear
 
 I copied the description text for the cafe for The Shoreham Aircraft Museum tearoom from [Shoreham Aircraft museum tearoom](http://www.shoreham-aircraft-museum.co.uk/teas.htm). I copied the address, phone number and email address from [Shoreham Aircraft museum tearoom opening](http://www.shoreham-aircraft-museum.co.uk/opening.htm). I added these details to The Shoreham Aircraft Museum tearoom on the Kent cafe page.
 
-I copied the address, phone number and email address for Steep Street Coffee House from [Steep Street Coffee House contact](https://www.steepstreet.co.uk/contact/). The cafe description came [Steep Street Coffee House](https://www.steepstreet.co.uk/the-steep-street-coffee-house/). I added these details to the Steep Street Coffee House cafe on the Kent cafe page.
+I copied the address, phone number and email address for Steep Street Coffee House from [Steep Street Coffee House contact](https://www.steepstreet.co.uk/contact/). The cafe description came from [Steep Street Coffee House](https://www.steepstreet.co.uk/the-steep-street-coffee-house/). I added these details to the Steep Street Coffee House cafe on the Kent cafe page.
 
 I copied the address and phone number for The Curious Cupcake Cafe from [The Curious Cupcake Cafe](https://www.cupcakecafemargate.co.uk/) and the email address from [The Curious Cupcake Cafe contact](https://www.cupcakecafemargate.co.uk/contact). I added these details to The Curious Cupcake Cafe on the Kent cafe page.
 
@@ -329,7 +329,7 @@ I copied the address and phone number for the cafe for The Headley Village Store
 
 I copied the address, phone number and email address for Cromwells from [Cromwells](https://cromwellcoffeehouse.co.uk/). The description came from [Cromwells about](https://cromwellcoffeehouse.co.uk/about-us/). I added these details to the Cromwells cafe on the Surrey cafe page.
 
-#### Media
+### Media
 
 #### Index page images
 
