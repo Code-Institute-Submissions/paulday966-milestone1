@@ -246,6 +246,12 @@ I have not automated my testing, so below are the steps to achieve the following
 * viii The remaining fields are address, postcode and Do you have any additonal information that would be useful? are optional.
 * ix If I type text in any of the fields I can cancel this request and clear the fields by clicking on the Cancel button
 
+To help me make sure my website is responsive with different screen sizes, I tested it with Google Chrome's developer tools and changed the responsive screen size. I regularly checked this using the iPad, iPad Pro and various smartphone screen sizes and made changes to the Bootstrap col sizes for medium and large screen sizes. I tried to make the columns the same width to make it look better.
+
+When I had built enough of the website I started to use the Github Pages link and tested the website with Chrome, Sarafi and Opera on my Mac, and Chrome, Edge and Opera on Windows. All of the browsers on Mac OS and Windows responded correctly, with the menu changing to the mobile view correctly for small screens. The text, images and info cards all moved correctly when the screen size was reduced to replicate the drop in screen size. The footer text and social media links moved positions correctly when the screen size was reduced.
+
+When I tested the website on my iPhone and iPad it looked as expected and worked correctly. 
+
 ### Deployment
 
 To make it easier for me to test my website in different browers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Parallels desktop and my Mac mini. I tested the site in Chrome for Mac OSX and Windows, Safari and Microsoft Edge.
