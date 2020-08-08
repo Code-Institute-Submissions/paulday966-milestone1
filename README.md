@@ -43,9 +43,9 @@
 * [Ackowledgements](https://github.com/paulday966/milestone1#acknowledgments)
 
 
-The idea for this project came to me when I wanted to see a list of coffee shops in different towns and counties on one website. Unfortunately I found this difficult, as I had to do multiple searches to find what I wanted. On my weekend bike rides I have discovered lots of coffee shops, and some of them have a theme.
+The idea for this project came to me when I wanted to see a list of coffee shops in different towns and counties on one website. Unfortunately I found this difficult, as I had to do multiple searches to find what I wanted. On my weekend bike rides I have discovered lots of coffee shops, and some of them have a theme, which I have inscluded in this website.
 
-I wanted to change that by creating a website that has information and links to cafes in different towns and counties.
+I wanted to change that by creating a website that is easy to use and has information and links to cafes in different towns and counties.
 
 ### UX
 
