@@ -216,48 +216,49 @@ I used this website to make sure the file my_functions.js was correct, and then 
 
 ### Testing
 
-I have not automated my testing, so below are the steps to achieve the following
+I have not automated my testing, so below are the steps to achieve the following using the desktop menu. If the user is viewing this website on a smart phone the menu will responsively change to fit on the small screen. The user will need to tap on the three dashed lines at the right hand side of the mobile menu. The menu will appear and will show Home, Counties with a little downward facing arrow and Contact Us. By tapping on Counties the sub menu will appear and the user can select the county of choice. 
 
 1. Go to one of the counties
 * i Click on the Counties link in the navigation menu
-* ii Click on one of the three options in the list. The options are: East Sussex, Kent and Surrey
+* ii Click on one of the three options that appear in the dropdown list. The options are: East Sussex, Kent and Surrey
 * iii The selected page will open and you can browse the list and read about the cafes
 
 2. How to find Us using Google Maps
 * i Follow the steps in step 1. Go to one of the counties
 * ii Find the cafe you want and you will see the Google Map
-* iii The user can click on the plus or minus signs in the bottom right hand corner of the How to find us card to zoom in or out. This will help them see more or less of the area
-* iv The user can also click on the View larger map link near the top left hand corner and the map will open up in Google Maps if it's installed, or into the default browser
+* iii The user can click on the plus or minus signs in the bottom right hand corner of the How to find us card to zoom in or zoom out. This will help them see more or see less of the area
+* iv The user can also click on the View larger map link near the top left hand corner and the map will open up in Google Maps if it's installed, or in a new tab in the default browser
 
-3a. Contact Us. This page has two parts. The first part is Newsletter signup at the top of the page. I have added placeholder text to show the user how the email address should look when it's typed in
+3a. Contact Us. This page has two parts. The first part is the Newsletter signup at the top of the page and I have added placeholder text to show the user how the email address should look when it's typed in
 * i Click on the Contact Us link on the navigation menu
 * ii If I click on the Submit button without entering my name or email address a message pops up underneath the Name field and says the following. Please fill in this field and nothing will be sumbitted
 * iii For this part of the test I used the email address test@example.co.uk. If I type my name in, but leave the email address field blank and click on Submit a message pops up underneath the email address field saying Please fill in this field
 * iv If the name has been added to the name field, but only the first part of the email address has been added and the user clicks on Submit a message pops up underneath the email address field. It says Please include an '@' in the email address. 'test' is missing an '@'
-* v If the name has been added to the name field, but only the first part and the @ symbol have been entered a message pops up underneath the email address field and says. Please enter a part following '@'. 'test@' is incomplete
-* vi If the name has been added to the name field and the email address is missing the last part so it looks like test@example a message pops up underneath the email address field and says. Please match the format requested
-* vii The same message, Please match the format requested pops up if the email address looks like this. test@example.co
-* viii If I type the same as the previous step but a dot after the co the message pops up and says. '.' is used at the wrong position in 'example.co.'.
+* v If the name has been added to the name field, but only the first part and the @ symbol have been entered and the submit button is clicked a message pops up underneath the email address field. It says Please enter a part following '@'. 'test@' is incomplete
+* vi If the name has been added to the name field and the email address is missing the last part so it looks like test@example and the submit button has been cliked a message pops up underneath the email address field. It says Please match the format requested
+* vii When the name has been added to the name field the same message, Please match the format requested pops up if the email address looks like this. test@example.co when the submit button is clicked
+* viii If I type the same as the previous step but add a dot after the co and click on the submit button a message pops up and says the following. '.' is used at the wrong position in 'example.co.'.
 * ix If I type in my name and the email address in the correct format, test@example.co.uk and click on Submit it is successful. A box pops up with the message Thanks for subscribing to our newsletter. If I click on the OK button in the pop up message it dissappears and the text in both fields is removed
+* x If I type text in any of the fields I can cancel this request and clear the fields by clicking on the Cancel button
 
-3b. Contact Us. The second part of the Contact Us form is the cafe request form. I have added placeholder text in the cafe website address field to show how it should look
+3b. Contact Us. The second part of Contact Us is the cafe request form. I have added placeholder text in the cafe website address field to show how it should look
 * i Click on the Contact Us link in the navigation menu
 * ii If I click on the Submit button without typing text into any of the fields a message pops up underneath the Cafe Name field which says Please fill in this field
-* iii If I type in a cafe name and nothing else the form won't be submitted because a message pops up underneath the Cafe website address field and says Please fill in this field
-* iv For this part of the test I used the website address https://cafetest.com. If I type in the cafe name and the first part of the website address, http:// or https://, or any part of this a message pops up saying Please enter a URL
-* v If I type in the cafe name and the first part of the website address, http:// or https:// and cafetest, then click on Submit the cursor moves to City and a message pops up saying Please fill in this field. Nothing is submitted. The cafe website address field accepts http://cafetest or https://cafetest and doesn't ask for .com or dot something else. I have added the following text underneath the cafe website address which says the following. You can copy the website address of the cafe into this box
-* vi If I type in the cafe name, the website address and the city then click on submit a dialog box pops. The message says Thank you for sending us details of the cafe and there is an OK button. If I click on OK the box disappears and the boxes that have been filled in are now empty
-* vii The cafe name, website address and city are required fields, as I thought that would be the minimum required to find more about the cafe
-* viii The remaining fields are address, postcode and Do you have any additonal information that would be useful? are optional.
+* iii If I type in a cafe name and nothing else and click on submit the form won't be submitted because a message pops up underneath the Cafe website address field and says Please fill in this field
+* iv For this part of the test I used the website address https://cafetest.com. If I type in the cafe name and the first part of the website address, http:// or https://, or any part of this then click on submit a message pops up saying Please enter a URL
+* v If I type in the cafe name and the first part of the website address, http:// or https:// and cafetest, then click on Submit the cursor moves to City and a message pops up saying Please fill in this field and nothing is submitted. The cafe website address field accepts http://cafetest or https://cafetest and doesn't ask for .com or dot something else. I have added the following text underneath the cafe website address which says the following. You can copy the website address of the cafe into this box
+* vi If I type in the cafe name, the website address and the city then click on submit a dialog box pops up. The message says Thank you for sending us details of the cafe and there is an OK button. If I click on OK the box disappears and the boxes that have been filled in are now empty
+* vii The cafe name, website address and city are required fields, as I thought that would be the minimum required for me to find more about the cafe
+* viii The remaining fields are address, postcode and Do you have any additonal information that would be useful? are optional
 * ix If I type text in any of the fields I can cancel this request and clear the fields by clicking on the Cancel button
 
-To help me make sure my website is responsive with different screen sizes, I tested it with Google Chrome's developer tools and changed the responsive screen size. I regularly checked this using the iPad, iPad Pro and various smartphone screen sizes and made changes to the Bootstrap col sizes for medium and large screen sizes. I tried to make the columns the same width to make it look better.
+To help me make sure my website is responsive with different screen sizes, I tested the website with Google Chrome's developer tools and changed the responsive screen size, while I was building it. I regularly checked this using the iPad, iPad Pro and various smartphone screen sizes from the Google Chrome developer tools drop down menu next to the screen size. When I found problems with the responsive screen size I made changes to the Bootstrap col sizes for medium and large screen sizes. I made the columns the same width to make it look better.
 
-When I had built enough of the website I started to use the Github Pages link and tested the website with Chrome, Sarafi and Opera on my Mac, and Chrome, Edge and Opera on Windows. All of the browsers on Mac OS and Windows responded correctly, with the menu changing to the mobile view correctly for small screens. The text, images and info cards all moved correctly when the screen size was reduced to replicate the drop in screen size. The footer text and social media links moved positions correctly when the screen size was reduced.
+When I had built enough of the website I started to use the Github Pages link and tested the website with Chrome, Sarafi and Opera on my Mac, and Chrome, Edge and Opera on Windows. All of the browsers on Mac OS and Windows responded correctly, with the menu changing to the mobile view correctly for small screens. The text, images and info cards all responded correctly when the screen size was reduced from computer screen to tablet to smartphone. The footer text and social media links moved positions correctly when the screen size was reduced.
 
-When I tested the website on my iPhone and iPad it looked as expected, repsonded worked correctly and the mobile menu and all of the links worked correctly. The validation on the contact Us form worked correctly. When the correct text was typed in, the required boxes were filled in and the Submit button was pressed the dialog box poped up with the thank you message and the OK button. When I pressed OK the text in the fields was removed and it was ready for more text to be entered.
+When I tested the website on my iPhone and iPad it looked as expected, repsonded correctly and the mobile menu and all of the links worked correctly. The validation on the contact Us form worked correctly. When the correct text was typed in, the required boxes were filled in and the Submit button was pressed the dialog box poped up with the thank you message and the OK button. When I pressed OK on the pop up message the text in the fields was removed and it was ready for more text to be entered.
 
-While I have been building this website I found lots of bugs and errors which I was able to fix and recheck to make sure the errors didn't happen again. Now that the website is finished I haven't found any bugs and my friends that have tested it haven't found any errors since I finished building it.
+While I have been building this website I found lots of bugs and errors which I was able to fix, then recheck to make sure the errors didn't happen again. Now that the website is finished I haven't found any bugs and my friends that have tested it haven't found any errors after I finished building it.
 
 ### Deployment
 
