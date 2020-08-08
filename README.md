@@ -121,21 +121,14 @@ Bootstrap was used to create and format the following:
 
 * The two sections of the contact us page by clicking on the copy html link and pasting the html on to the contact us page
 * It was used to add the column classes to the divs within rows so the content would change responsivley on large, medium and small screen sizes and be clear and   easy to read
-* To create the information cards that display the information about each cafe
+* To create the information cards that display for each cafe
 * To create the navigation menu at the top of the screen including the dropdown menu
 
 #### Font Awesome
 
 * [Font Awesome](https://fontawesome.com/)
 
-Font Awesome was used to add icons at the beginning of the following paragraph's in the cafe's contact us details:
-
-* Address
-* Phone number
-* Email address
-* Website
-
-It was also used for the following items in the At a glance for each cafe:
+Font Awesome was used to add icons at the beginning of each item in the At a glance information card for each cafe:
 
 * Food
 * Outside seating
@@ -143,51 +136,58 @@ It was also used for the following items in the At a glance for each cafe:
 * Public transport
 * Parking
 
+It was also used to add icons at the beginning of the cafe's contact us details:
+
+* Address
+* Phone number
+* Email address
+* Website
+
 #### Google Fonts
 
-I have used Google Fonts to style the font used on all pages.
+I have used Google Fonts to style the font on all pages.
 
 * [Google Fonts](https://fonts.google.com/)
 
 #### Github
 
-I have used a Github repository to store all of the html and css files, the images used, wireframe pdf files and the Readme.md file.
+I have used a Github repository to store all of the files, images, wireframe pdfs and the Readme.md file.
 
 * [Github](https://github.com/)
 
 #### Gitpod
 
-I used Gitpod to write and save the html files and CSS and store the CSS in a folder. It was also used to upload the images and wireframes into seperate folders. All of the work was saved to the repository for this project bit by bit by using git commands.
+I used Gitpod to write and save the html, CSS and JavaScript files and store the style.css file in a folder. It was also used to upload the images and wireframes into seperate folders. All of the work was saved to the repository linked to this project by using git commands.
 
 * [Gitpod](https://www.gitpod.io/)
 
-#### Embed Google Maps
+#### Embeded Google Maps
 
-I used this website to input the cafe's location, so that the location comes up on the on screen Google Map. Before generating the code I needed I was able to adjust the size of the map to my requirements. Once the code was generated I pasted it into the info card and deleted the parts I didn't need.
+I used this website to input the cafe's location, so that the location is shown on the map with a pin. Before generating the html code I needed, I was able to adjust the size of the map to meet my requirements. Once the code was generated I pasted it into the info card and deleted the parts I didn't need.
 
 * [Embed Google Maps for website Maps generator for free](https://www.embedgooglemap.net/en/?gclid=Cj0KCQjwpNr4BRDYARIsAADIx9w2dCTRcQJCJxIXJn9gCWRinhuiUD1BjqXTQ-_3aUrx3Bvb5CRBA6EaAkWgEALw_wcB)
 
 #### W3 Schools
 
-I used this website to check on what I would need to do to build some of my ideas and also to make sure some of my code was correct. 
+I used this website to check on what I would need to do to create some of my ideas and also to make sure some of my code in other parts of the websiyte were correct. 
 
 [w3schools.com](https://www.w3schools.com/)
 
 #### Stackoverflow
 
-I used this website to help explain the z-index for keeping the nav menu at the top of the screen when scolling
+I used this website to help explain the z-index for keeping the navigation menu at the top of the screen when scolling
 
 [Stackoverflow](https://stackoverflow.com/)
 
 #### CSS Tricks
 
-I used this website to help explain the z-index for keeping the nav menu at the top of the screen when scolling
+I also used this website to help explain the z-index for keeping the navigation menu at the top of the screen when scolling
 
 [CSS Tricks](https://css-tricks.com/)
 
 #### Coolors.co
 
-I used this website to find the background colour for the pages.
+I used this website to find the background colour for all of the pages.
 
 [Coolors](https://coolors.co/)
 
@@ -199,7 +199,7 @@ I used this website to find a suitable fav icon.
 
 #### W3C Markup Validation Service
 
-I used this website to make sure each page of html was correct, and then I was able to correct the mistakes.
+I used this website to make sure each page of html was correct, and then I was able to correct the errors.
 
 [Markup Validation Service](https://validator.w3.org/)
 
