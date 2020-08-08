@@ -85,13 +85,13 @@ The second user type would be the younger generation. They would be able to acce
 
 #### Existing features
 
-* Feature 1 - Location of cafe using an embeded Google Maps. The user can see at a glance where the cafe is and if they click on it Google Maps will open up in a new tab and give users the full Google Maps experience
+* Feature 1 - Location of the cafe using an embeded Google Map. The user can see at a glance where the cafe is and using the plus and minus buttons the map can be zoomed in or out. The user can click on the link View in larger map and Google Maps will open up in a new tab and give users the full Google Maps experience. If Google Maps in installed on the mobile device it will open up in that
 
-* Feature 2 - Newsletter sign up. When the user clicks on the link for the contact Us page the user has the option to sign up to the monthly newsletter
+* Feature 2 - Link to cafe website. The user can click on the link to open the website in a new tab and find out more details about the place
 
-* Feature 3 - Link to cafe website. The user can click on the link to open the website in a new tab and find out more details about the place
+* Feature 3 - Newsletter sign up. When the user clicks on the contact Us page the user has the option to sign up to the monthly newsletter, by entering their name and email address. Both are required and a message pops up to remind them to fill these in if they haven't done so
 
-* Feature 4 - Send cafe details. When the user clicks on the link for the contact Us page the user has the option to fill in details about a cafe they have found. The minimum details required are the cafe name and city, and a message pops up to remind them to fill these in if they haven't done so
+* Feature 4 - Cafe request. When the user clicks on the contact Us page the user has the option to fill in details about a cafe they have found. The minimum details required are the cafe name, website address and city. A message pops up to remind them to fill these in if they haven't done so
 
 #### Features left to implement
 
