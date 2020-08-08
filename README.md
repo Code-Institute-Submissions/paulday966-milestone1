@@ -250,7 +250,9 @@ To help me make sure my website is responsive with different screen sizes, I tes
 
 When I had built enough of the website I started to use the Github Pages link and tested the website with Chrome, Sarafi and Opera on my Mac, and Chrome, Edge and Opera on Windows. All of the browsers on Mac OS and Windows responded correctly, with the menu changing to the mobile view correctly for small screens. The text, images and info cards all moved correctly when the screen size was reduced to replicate the drop in screen size. The footer text and social media links moved positions correctly when the screen size was reduced.
 
-When I tested the website on my iPhone and iPad it looked as expected and worked correctly. 
+When I tested the website on my iPhone and iPad it looked as expected and worked correctly. The mobile menu worked correctly.
+
+While I have been building this website I found lots of bugs and errors which I was able to fix and recheck to make sure the errors didn't happen again. Now that the website is finished I haven't found any bugs and my friends that have tested it haven't found any errors since I finished building it.
 
 ### Deployment
 
