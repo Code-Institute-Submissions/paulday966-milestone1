@@ -256,7 +256,7 @@ While I have been building this website I found lots of bugs and errors which I 
 
 ### Deployment
 
-To make it easier for me to test my website in different browers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Parallels desktop and my Mac mini. I tested the site in Chrome for Mac OSX and Windows, Safari and Microsoft Edge.
+To make it easier for me to test my website in different browers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Parallels desktop and my Mac mini.
 
 To deploy the website I followed these steps
 
@@ -269,7 +269,7 @@ To deploy the website I followed these steps
 7. Then I clicked on Save
 8. Once I had done that the published link appeared just above the source section, which is https://paulday966.github.io/milestone1/
 
-If I wanted to download my code so I could work off line I would follow these steps. Follow these steps to get to the options
+If I wanted to download my code so I could run it locally I would follow these steps
 
 1. Log into my GitHub account
 2. Click on the link for my milestone1 project
