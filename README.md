@@ -49,13 +49,13 @@ I wanted to change that by creating a website that is easy to use and has inform
 
 ### UX
 
-This website is for both the young and old who want to find out information about cafes quickly and easily. When they come to the website they can choose between three counties. After clicking on one of the options they will see the cafes for that county with an image of the cafe, a description and information about the place split up into four sections. Each section provides easy to see and read infomation to help the user select a cafe. The information provides basic at a glance information, such as outdoor seating, public transport links and snacks or cakes. The how to find us section has the cafe pinned on a Google Maps location card which can be expanded to fill an entire tab or Google Maps app. Then there is the opening hours section and the contact us section, with address, phone number, email address and website link.
+This website is for both the young and old who want to find out information about cafes quickly and easily. When they come to the website they can choose between three counties, which are East Sussex, Kent and Surrey. After clicking on one of the options in the counties dropdown menu in the navigation menu they will see the cafes for that county with an image of the cafe, a description and information about the place split up into four information cards. Each information card provides easy to see and read infomation to help the user select a cafe. The first information card provides at a glance information, such as outdoor seating, public transport links and the food available. The next information card is how to find us, which has the cafe pinned on Google Maps. The map can be expanded to fill a browser tab or be opened in the Google Maps app. The next information card contains the opening hours and the final information card contains the contact us detials. This includes the address, phone number, email address and website link.
 
 * As a user type, I want to perform an action, so that I can achieve a goal
 
-The first user type would be the older generations, who might not have access to smart phones. I want the user to be able to quickly access the list of cafes, with clear and easy to read information. This information can be printed off or written down so they can view it later when they need it.
+The first user type would be the older generations. I want the user to be able to quickly access the list of cafes, with clear and easy to read information. This information can be printed off or written down so they can view it later when they need it.
 
-The second user type would be the younger generation that have smartphones. They would be able to access the site on their smartphone or tablet see the key information such as address and use Google Maps to guide them to the cafe.
+The second user type would be the younger generation. They would be able to access the site on their smartphone and see the key information such as address and use Google Maps to guide them to the cafe.
 
 #### Wireframe mockups for the desktop site
 
