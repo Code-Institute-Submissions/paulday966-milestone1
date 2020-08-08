@@ -29,10 +29,9 @@
 * [Freefavicon](https://github.com/paulday966/milestone1#freefavicon)
 * [W3C Markup Validation Service](https://github.com/paulday966/milestone1#w3c-markup-validation-service)
 * [W3C CSS Validation Service](https://github.com/paulday966/milestone1#w3c-css-validation-service)
+* [Online JavaScript Validator](https://github.com/paulday966/milestone1#online-javascript-validator-beautifytools)
 
 [Testing](https://github.com/paulday966/milestone1#testing)
-
-
 
 [Deployment](https://github.com/paulday966/milestone1#deployment)
 
@@ -208,6 +207,12 @@ I used this website to make sure each page of html was correct, and then I was a
 I used this website to make sure the style.css page was correct, and then I was able to correct the mistakes.
 
 [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+#### Online JavaScript Validator BeautifyTools
+
+I used this website to make sure the file my_functions.js was correct, and then I was able to correct the mistakes.
+
+http://beautifytools.com/javascript-validator.php
 
 ### Testing
 
