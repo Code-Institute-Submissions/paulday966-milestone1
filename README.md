@@ -27,7 +27,7 @@
 * [CSS Tricks](https://github.com/paulday966/milestone1#css-tricks)
 * [Coolors.co](https://github.com/paulday966/milestone1#coolorsco)
 * [Freefavicon](https://github.com/paulday966/milestone1#freefavicon)
-* [W3C Markup Validation Service](https://github.com/paulday966/milestone1#w3-markup-validation-services)
+* [W3C Markup Validation Service](https://github.com/paulday966/milestone1#w3c-markup-validation-services)
 * [W3C CSS Validation Service](https://github.com/paulday966/milestone1#w3c-css-validation-service)
 
 [Testing](https://github.com/paulday966/milestone1#testing)
