@@ -47,7 +47,6 @@ p.newsletter-intro {
     float: left;
 }
 
-
 /* Navigation menu */
 
 .navbar {
@@ -301,5 +300,12 @@ footer {
 @media(max-width: 576px) {
     #footer-info {
         text-align: center;
+    }
+}
+
+@media(max-width: 768px) {
+    .winter-opening-hours {
+        float: left;
+        padding-left: 0;
     }
 }
