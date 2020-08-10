@@ -185,16 +185,6 @@ p.intro-text {
     margin: 3rem;
 }
 
-/* Validation */
-
-/* input:valid {
-    border:  2px solid lightgreen;
-}
-
-input:invalid {
-    border: 2px solid red;
-} */
-
 /* On focus */
 
 input[type=text]:focus {
