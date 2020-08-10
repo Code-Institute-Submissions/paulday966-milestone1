@@ -38,6 +38,16 @@ p.newsletter-intro {
     margin: 20px 0 0 0;
 }
 
+.winter-opening-hours {
+    float: left;
+    padding-left: 1rem;
+}
+
+.summer-opening-hours {
+    float: left;
+}
+
+
 /* Navigation menu */
 
 .navbar {
