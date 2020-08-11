@@ -52,9 +52,13 @@ This website is for both the young and old who want to find out information abou
 
 * As a user type, I want to perform an action, so that I can achieve a goal
 
-The first user type would be the older generations. I want the user to be able to quickly access the list of cafes, with clear and easy to read information. This information can be printed off or written down so they can view it later when they need it.
+I want the user to be able to quickly access the list of cafes, with clear and easy to read information. This information can be printed off or written down so they can view it later when they need it.
 
-The second user type would be the younger generation. They would be able to access the site on their smartphone and see the key information such as address and use Google Maps to guide them to the cafe.
+I want the user to be able to access the site on their smartphone and see the key information such as address and use Google Maps to guide them to the cafe.
+
+I want the user to be able to signup to the monthly newsletter, so they can stay up to date with the latest cafe information. This would be done by entering their name and email address into the newsletter sign up fields on the contact us page. Then they would click on the submit button and a box pops up which thanks them for subscribing.
+
+I want the user to be able to add the details of a cafe they would like to be added to the website. This would be done by entering at least the name of the cafe, web site address and city, as the rest of the fields are optional. Once they have entered the information and clicked on submit a message pops up thanking them for submitting the cafe details.
 
 #### Wireframe mockups for the desktop site
 
