@@ -70,15 +70,15 @@ The second user type would be the younger generation. They would be able to acce
 
 #### Wireframe mockups for the mobile site
 
-* [Index.html](https://github.com/paulday966/milestone1/blob/8c055eed0764f1d44a388bfa27ba82745b1e1596/assets/wireframes/mobile/mobile_first_index.pdf)
+* [Index.html](https://github.com/paulday966/milestone1/blob/master/documentation/wireframes/mobile_view/mobile_first_index.pdf)
 
-* [East Sussex cafes](https://github.com/paulday966/milestone1/blob/b61b64192ba5f55e2052e62158ad80346dda18d8/assets/wireframes/mobile/mobile_first_east_sussex_cafes.pdf)
+* [East Sussex cafes](https://github.com/paulday966/milestone1/blob/master/documentation/wireframes/mobile_view/mobile_first_east_sussex_cafes.pdf)
 
-* [Kent cafes](https://github.com/paulday966/milestone1/blob/6a158984b96d45f15ddc76d47143e5343ca40efa/assets/wireframes/mobile/mobile_first_kent_cafes.pdf)
+* [Kent cafes](https://github.com/paulday966/milestone1/blob/master/documentation/wireframes/mobile_view/mobile_first_kent_cafes.pdf)
 
-* [Surrey cafes](https://github.com/paulday966/milestone1/blob/d9a67352d5be54bc1d95c883483eae3348c3ce61/assets/wireframes/mobile/mobile_first_surrey_cafes.pdf)
+* [Surrey cafes](https://github.com/paulday966/milestone1/blob/master/documentation/wireframes/mobile_view/mobile_first_surrey_cafes.pdf)
 
-* [Contact Us](https://github.com/paulday966/milestone1/blob/d8bae6083c247d28133ca698b506e723176850d9/assets/wireframes/mobile/mobile_first_contact_us.pdf)
+* [Contact Us](https://github.com/paulday966/milestone1/blob/master/documentation/wireframes/mobile_view/mobile_first_contact_us.pdf)
 
 ### Features
 
