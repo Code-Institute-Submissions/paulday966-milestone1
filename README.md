@@ -279,7 +279,25 @@ The following image shows what happens when the submit button is clicked on with
 
 To help me make sure my website is responsive with different screen sizes, while I was building it I tested the website with Google Chrome's developer tools and changed the responsive screen size. I regularly checked this using the iPad, iPad Pro and various smartphone screen sizes from the Google Chrome developer tools drop down menu next to the screen size. When I found problems with the responsive screen size I made changes to the Bootstrap col sizes for medium and large screen sizes.
 
-When I had built enough of the website I started to use the Github Pages link and tested the website with Chrome, Sarafi and Opera on my Mac, and Chrome, Edge and Opera on Windows. All of the browsers on Mac OS and Windows responded correctly, with the menu changing to the mobile view correctly for small screens. The text, images and info cards all responded correctly when the screen size was reduced from computer screen to tablet to smartphone. The footer text and social media links moved positions correctly when the screen size was reduced.
+When I had built enough of the website I started to use Github Pages and with the link it provides tested the website with Chrome, Sarafi and Opera on my Mac, and Chrome, Edge and Opera on Windows. All of the browsers on Mac OS and Windows responded correctly, with the menu changing to the mobile view correctly for small screens. The text, images and info cards all responded correctly when the screen size was reduced from large screen to tablet to smartphone. The footer text and social media links moved positions correctly when the screen size was reduced.
+
+The following images show how the website looks on a large, medium and small sized screen.
+
+How the website looks on a large screen
+
+
+![Image of how the website looks on a large screen](https://github.com/paulday966/milestone1/blob/master/documentation/images/desktop-view.jpg)
+
+How the wesbite looks on a medium screen
+
+
+![Image of how the website looks on a medium sized screen](https://github.com/paulday966/milestone1/blob/master/documentation/images/tablet-view.jpg)
+
+How the website looks on a small sized screen
+
+
+![Image of how the website looks on a small screen](https://github.com/paulday966/milestone1/blob/master/documentation/images/smartphone-view.jpg)
+
 
 When I tested the website on my iPhone and iPad it looked as expected, repsonded correctly and the mobile menu and all of the links worked correctly. The validation on the contact Us form worked correctly. When the correct text was typed in, the required boxes were filled in and the Submit button was pressed the dialog box poped up with the thank you message and the OK button. When I pressed OK on the pop up message the text in the fields was removed and it was ready for more text to be entered.
 
