@@ -298,10 +298,11 @@ How the website looks on a small sized screen
 
 ![Image of how the website looks on a small screen](https://github.com/paulday966/milestone1/blob/master/documentation/images/smartphone-view.jpg)
 
-
 When I tested the website on my iPhone and iPad it looked as expected, repsonded correctly and the mobile menu and all of the links worked correctly. The validation on the contact Us form worked correctly. When the correct text was typed in, the required boxes were filled in and the Submit button was pressed the dialog box poped up with the thank you message and the OK button. When I pressed OK on the pop up message the text in the fields was removed and it was ready for more text to be entered.
 
-While I have been building this website I found lots of bugs and errors which I was able to fix, then recheck to make sure the errors didn't happen again. Now that the website is finished I haven't found any bugs and my friends that have tested it haven't found any errors after I finished building it.
+While I was working on the Contact Us page I decided it needed to be easier for the user to know which field they were typing in. In the CSS for text, email and url types I added the on focus rule for each one so that a border appeared around the field when the user clicked in it. 
+
+While I was building the website I found lots of errors in the HTML and CSS which I was able to fix. Once I had fixed errors, I rechecked the pages to make sure the errors didn't happen again. Now that the website is finished I haven't found any bugs and my friends that have tested it didn't find any errors.
 
 ### Deployment
 
