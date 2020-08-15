@@ -300,7 +300,12 @@ How the website looks on a small sized screen
 
 When I tested the website on my iPhone and iPad it looked as expected, repsonded correctly and the mobile menu and all of the links worked correctly. The validation on the contact Us form worked correctly. When the correct text was typed in, the required boxes were filled in and the Submit button was pressed the dialog box poped up with the thank you message and the OK button. When I pressed OK on the pop up message the text in the fields was removed and it was ready for more text to be entered.
 
-While I was working on the Contact Us page I decided it needed to be easier for the user to know which field they were typing in. In the CSS for text, email and url types I added the on focus rule for each one so that a border appeared around the field when the user clicked in it. 
+While I was working on the Contact Us page I decided it needed to be easier for the user to know which field they were typing in. In the CSS for text, email and url types I added the on focus rule for each one so that a border appeared around the field when the user clicked in it. While I was adding the border rule I found that it wouldn't work for the textarea type so I looked it up on the Internet and coudln't find how to do it. When the user clicks on the textarea, which is called Do you have any additional information that would be useful?, a blue outline appears, which does help.
+
+Onfocus black border
+
+
+![Image to show the onfocus black border](https://github.com/paulday966/milestone1/blob/master/documentation/images/onfocus-border.jpg)
 
 While I was building the website I found lots of errors in the HTML and CSS which I was able to fix. Once I had fixed errors, I rechecked the pages to make sure the errors didn't happen again. Now that the website is finished I haven't found any bugs and my friends that have tested it didn't find any errors.
 
