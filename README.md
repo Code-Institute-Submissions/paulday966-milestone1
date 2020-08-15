@@ -251,6 +251,12 @@ I have not automated my testing, so below are the steps to achieve the following
 3a. Contact Us. This page has two parts. The first part is the Newsletter signup at the top of the page and I have added placeholder text to show the user how the email address should look when it's typed in
 * i Click on the Contact Us link on the navigation menu
 * ii If I click on the Submit button without entering my name or email address a message pops up underneath the Name field and says the following. Please fill in this field and nothing will be sumbitted
+
+The following image shows what happens when the submit button is clicked on without entering the required text
+
+
+![Image of what happens when the user doesn't enter their name and clicks on the submit button](https://github.com/paulday966/milestone1/blob/master/documentation/images/pressing-submit-without-user-input.jpg)
+
 * iii For this part of the test I used the email address test@example.co.uk. If I type my name in, but leave the email address field blank and click on Submit a message pops up underneath the email address field saying Please fill in this field
 * iv If the name has been added to the name field, but only the first part of the email address has been added and the user clicks on Submit a message pops up underneath the email address field. It says Please include an '@' in the email address. 'test' is missing an '@'
 * v If the name has been added to the name field, but only the first part and the @ symbol have been entered and the submit button is clicked a message pops up underneath the email address field. It says Please enter a part following '@'. 'test@' is incomplete
