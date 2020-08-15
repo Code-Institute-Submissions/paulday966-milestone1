@@ -203,12 +203,14 @@ input[type=url]:focus {
     border: 1px solid black;
 }
 
-/* Other items */
+/* Map size */
 
 .map-size {
     max-width: 25rem;
     max-height: 20rem;
 }
+
+/* Horizontal line divide */
 
 hr {
     padding: 10px;
