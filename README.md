@@ -307,6 +307,11 @@ Onfocus black border
 
 ![Image to show the onfocus black border](https://github.com/paulday966/milestone1/blob/master/documentation/images/onfocus-border.jpg)
 
+Contact Us page Do you have any additional information that would be useful? textarea that doesn't have the onfocus border
+
+
+![Image to show textarea without onfocus border](https://github.com/paulday966/milestone1/blob/master/documentation/images/textarea-noborder.jpg)
+
 While I was building the website I found lots of errors in the HTML and CSS which I was able to fix. Once I had fixed errors, I rechecked the pages to make sure the errors didn't happen again. Now that the website is finished I haven't found any bugs and my friends that have tested it didn't find any errors.
 
 ### Deployment
