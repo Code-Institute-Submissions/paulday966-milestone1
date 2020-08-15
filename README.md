@@ -260,8 +260,14 @@ The following image shows what happens when the submit button is clicked on with
 * iii For this part of the test I used the email address test@example.co.uk. If I type my name in, but leave the email address field blank and click on Submit a message pops up underneath the email address field saying Please fill in this field
 * iv If the name has been added to the name field, but only the first part of the email address has been added and the user clicks on Submit a message pops up underneath the email address field. It says Please include an '@' in the email address. 'test' is missing an '@'
 * v If the name has been added to the name field, but only the first part and the @ symbol have been entered and the submit button is clicked a message pops up underneath the email address field. It says Please enter a part following '@'. 'test@' is incomplete
+
+Email address does not match the validation requirements
+
+
+![Image to show the email address does not match the validation requirements](https://github.com/paulday966/milestone1/blob/master/documentation/images/email-error-when-submitting.jpg)
+
 * vi If the name has been added to the name field and the email address is missing the last part so it looks like test@example and the submit button has been cliked a message pops up underneath the email address field. It says Please match the format requested
-* vii When the name has been added to the name field the same message, Please match the format requested pops up if the email address looks like this. test@example.co when the submit button is clicked
+* vii When the name has been added to the name field and the email address has been added, but looks like this, test@example.co the name and email address are successfully submitted when the submit button is clicked on. This is because the input field needs to allow .com or similar email addresses and not just .co.uk or similar email addresses
 * viii If I type the same as the previous step but add a dot after the co and click on the submit button a message pops up and says the following. '.' is used at the wrong position in 'example.co.'.
 * ix If I type in my name and the email address in the correct format, test@example.co.uk and click on Submit it is successful. A box pops up with the message Thanks for subscribing to our newsletter. If I click on the OK button in the pop up message it dissappears and the text in both fields is removed
 * x If I type text in any of the fields I can cancel this request and clear the fields by clicking on the Cancel button
