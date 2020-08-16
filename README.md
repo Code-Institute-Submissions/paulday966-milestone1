@@ -322,9 +322,9 @@ While I was building the website, I found lots of errors in the HTML and CSS whi
 
 ### Deployment
 
-To make it easier for me to test my website in different browers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Windows running in Parallels and on my Mac.
+To make it easier for me to test my website in different browsers and different devices I deployed my website to Github Pages. This allowed me to test the website on smartphones, tablets, Windows laptops and desktops, in Windows running in Parallels and on my Mac.
 
-To deploy the website I followed these steps
+To deploy the website, I followed these steps
 
 1. Logged into my GitHub account
 2. Clicked on the link for my milestone1 project
@@ -340,7 +340,7 @@ If I wanted to download my code so I could run it locally I would follow these s
 1. Log into my GitHub account
 2. Click on the link for my milestone1 project
 3. On the row of icons near the top of the screen underneath the repository name click on the <> Code option (the first option)
-4. Just underneath this row of options, click on the green button labbelled Code with two downward facing arrows
+4. Just underneath this row of options, click on the green button labelled Code with two downward facing arrows
 5. Three options will appear in the dropdown.
 
 #### Option 1 Clone with HTTPS
