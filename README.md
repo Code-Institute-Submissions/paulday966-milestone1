@@ -68,7 +68,7 @@ Newsletter signup
 
 ![Image of Newsletter signup](https://github.com/paulday966/milestone1/blob/master/documentation/images/newsletter-signup.jpg)
 
-I want the user to be able to add the details of a cafe they would like to be added to the website. This would be done by entering at least the name of the cafe, web site address and city, as the rest of the fields are optional. Once they have entered the information and clicked on submit a message pops up thanking them for submitting the cafe details.
+I want the user to be able to fill in the input fields to send in details of a cafe they would like to be added to the website. This would be done by entering at least the name of the cafe, web site address and city, as the rest of the fields are optional. Once they have entered the information and clicked on submit a message pops up thanking them for submitting the cafe details.
 
 New cafe request
 
