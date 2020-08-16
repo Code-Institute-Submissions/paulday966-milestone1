@@ -105,7 +105,7 @@ New cafe request
 
 * Feature 1 - Location of the cafe using an embedded Google Map. The user can see at a glance where the cafe is and using the plus and minus buttons the map can be zoomed in or out. The user can click on the link View in larger map and the embedded map will open up in a new tab and give users the full Google Maps experience. If not, the map will open in the Google Maps app if it's installed
 
-* Feature 2 - Link to cafe website. The user can click on the link to open the website in a new tab and find out more details about the place
+* Feature 2 - Link to cafe website. The user can click on the link to open the website in a new tab and find out more information about the place
 
 * Feature 3 - Newsletter sign up. When the user clicks on the contact Us page the user has the option to sign up to the monthly newsletter, by entering their name and email address. Both are required and a message pops up to remind them to fill these in if they haven't done so
 
