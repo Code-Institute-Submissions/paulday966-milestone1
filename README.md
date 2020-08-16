@@ -187,19 +187,19 @@ I used this website to input the cafe's location, so that the location is shown 
 
 #### W3 Schools
 
-I used this website to check on what I would need to do to create some of my ideas and also to make sure some of my code in other parts of the websiyte were correct. 
+I used this website to check on what I would need to do to create some of my ideas and also to make sure some of my code in other parts of the website were correct. 
 
 [w3schools.com](https://www.w3schools.com/)
 
 #### Stackoverflow
 
-I used this website to help explain the z-index for keeping the navigation menu at the top of the screen when scolling
+I used this website to help explain the z-index for keeping the navigation menu at the top of the screen when scrolling
 
 [Stackoverflow](https://stackoverflow.com/)
 
 #### CSS Tricks
 
-I also used this website to help explain the z-index for keeping the navigation menu at the top of the screen when scolling
+I also used this website to help explain the z-index for keeping the navigation menu at the top of the screen when scrolling
 
 [CSS Tricks](https://css-tricks.com/)
 
