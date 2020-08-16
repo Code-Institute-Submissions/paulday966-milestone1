@@ -97,6 +97,13 @@ p.newsletter-intro {
     max-width: 24rem;
 }
 
+/* Map size */
+
+.map-size {
+    max-width: 25rem;
+    max-height: 20rem;
+}
+
 /* Images */
 
 .county-image {
@@ -201,13 +208,6 @@ input[type=email]:focus {
 
 input[type=url]:focus {
     border: 1px solid black;
-}
-
-/* Map size */
-
-.map-size {
-    max-width: 25rem;
-    max-height: 20rem;
 }
 
 /* Horizontal line divide */
