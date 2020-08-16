@@ -146,7 +146,7 @@ Bootstrap was used to create and format the following:
 
 * [Font Awesome](https://fontawesome.com/)
 
-Font Awesome was used to add icons at the beginning of each item in the At a glance information card for each cafe:
+Font Awesome was used to add icons at the beginning of each list item in the At a glance information card for each cafe:
 
 * Food
 * Outside seating
@@ -175,13 +175,13 @@ I have used a Github repository to store all of the files, images, wireframe pdf
 
 #### Gitpod
 
-I used Gitpod to write and save the html, CSS and JavaScript files and store the style.css file in a folder. It was also used to upload the images and wireframes into seperate folders. All of the work was saved to the repository linked to this project by using git commands.
+I used Gitpod to write and save the html, CSS and JavaScript files and store the style.css file in a folder. It was also used to upload the images and wireframes into separate folders. All of the work was saved to the repository linked to this project by using git commands.
 
 * [Gitpod](https://www.gitpod.io/)
 
-#### Embeded Google Maps
+#### Embedded Google Maps
 
-I used this website to input the cafe's location, so that the location is shown on the map with a pin. Before generating the html code I needed, I was able to adjust the size of the map to meet my requirements. Once the code was generated I pasted it into the info card and deleted the parts I didn't need.
+I used this website to input the cafe's location, so that the location is shown on the map with a pin. Before generating the html code I needed, I was able to adjust the size of the map to meet my requirements. Once the code was generated I pasted it into the info card and deleted the HTML I didn't need.
 
 * [Embed Google Maps for website Maps generator for free](https://www.embedgooglemap.net/en/?gclid=Cj0KCQjwpNr4BRDYARIsAADIx9w2dCTRcQJCJxIXJn9gCWRinhuiUD1BjqXTQ-_3aUrx3Bvb5CRBA6EaAkWgEALw_wcB)
 
