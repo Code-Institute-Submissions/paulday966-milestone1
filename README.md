@@ -355,7 +355,7 @@ Clicking on the second option will allow you to Open with GitHub Desktop. If you
 
 The third option will allow you to download a zip file with all of the files in it to your computer.
 
-There is no need to use external hosting for this project as GitHub Pages can generate a link that allows me to access the website on mobile devices and desktops anywhere I want. I'm able to use GitHub pages because this project doesn't have a back end to it such as a database. It only has static pages. This will also save a lot of time as I don't have to go through the process of setting up an account with an external hosting company and making sure the site gets transfered accross properly and GitHub is free to use.
+There is no need to use external hosting for this project as GitHub Pages can generate a link that allows me to access the website on mobile devices and desktops wherever I want. I'm able to use GitHub pages because this project doesn't have a back end to it such as a database and only has static pages. This will also save a lot of time as I don't have to go through the process of setting up an account with an external hosting company and making sure the site gets transferred across properly and GitHub is free to use.
 
 ### Credits
 
