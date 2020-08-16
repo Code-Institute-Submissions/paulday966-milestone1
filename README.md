@@ -235,7 +235,7 @@ I used this website to make sure the file my_functions.js was correct, and then 
 
 ### Testing
 
-I have not automated my testing, so below are the steps to achieve the following using the desktop menu. If the user is viewing this website on a smart phone the menu will responsively change to fit on the small screen. The user will need to tap on the three dashed lines at the right hand side of the mobile menu. The menu will appear and will show Home, Counties with a little downward facing arrow and Contact Us. By tapping on Counties the sub menu will appear and the user can select the county of choice. 
+I have not automated my testing, so below are the steps I used to achieve the following using the desktop menu. If the user is viewing this website on a smart phone the menu will responsively change to fit on the small screen. The user will need to tap on the three dashed lines at the right-hand side of the mobile menu. The menu will appear and will show Home, Counties with a little downward facing arrow and Contact Us. By tapping on Counties, the sub menu will appear, and the user can select the county of their choice. 
 
 1. Go to one of the counties
 * i Click on the Counties link in the navigation menu
@@ -244,7 +244,7 @@ I have not automated my testing, so below are the steps to achieve the following
 
 2. How to find Us using Google Maps
 * i Follow the steps in step 1. Go to one of the counties
-* ii Find the cafe you want and you will see the Google Map
+* ii Find the cafe you want, and you will see the Google Map
 * iii The user can click on the plus or minus signs in the bottom right hand corner of the How to find us card to zoom in or zoom out. This will help them see more or see less of the area
 * iv The user can also click on the View larger map link near the top left hand corner and the map will open up in Google Maps if it's installed, or in a new tab in the default browser
 
@@ -266,11 +266,11 @@ Email address does not match the validation requirements
 
 ![Image to show the email address does not match the validation requirements](https://github.com/paulday966/milestone1/blob/master/documentation/images/email-error-when-submitting.jpg)
 
-* vi If the name has been added to the name field and the email address is missing the last part so it looks like test@example and the submit button has been cliked a message pops up underneath the email address field. It says Please match the format requested
+* vi If the name has been added to the name field and the email address is missing the last part so it looks like test@example and the submit button has been clicked a message pops up underneath the email address field. It says Please match the format requested
 * vii When the name has been added to the name field and the email address has been added, but looks like this, test@example.co the name and email address are successfully submitted when the submit button is clicked on. This is because the input field needs to allow .com or similar email addresses and not just .co.uk or similar email addresses
 * viii If I type the same as the previous step but add a dot after the co and click on the submit button a message pops up and says the following. '.' is used at the wrong position in 'example.co.'.
-* ix If I type in my name and the email address in the correct format, test@example.co.uk and click on Submit it is successful. A box pops up with the message Thanks for subscribing to our newsletter. If I click on the OK button in the pop up message it dissappears and the text in both fields is removed
-* x If I type text in any of the fields I can cancel this request and clear the fields by clicking on the Cancel button
+* ix If I type in my name and the email address in the correct format, test@example.co.uk and click on Submit it is successful. A box pops up with the message Thanks for subscribing to our newsletter. If I click on the OK button in the pop-up message it disappears and the text in both fields is removed
+* x If I type text in any of the fields, I can cancel this request and clear the fields by clicking on the Cancel button
 
 3b. Contact Us. The second part of Contact Us is the cafe request form. I have added placeholder text in the cafe website address field to show how it should look
 * i Click on the Contact Us link in the navigation menu
@@ -278,10 +278,10 @@ Email address does not match the validation requirements
 * iii If I type in a cafe name and nothing else and click on submit the form won't be submitted because a message pops up underneath the Cafe website address field and says Please fill in this field
 * iv For this part of the test I used the website address https://cafetest.com. If I type in the cafe name and the first part of the website address, http:// or https://, or any part of this then click on submit a message pops up saying Please enter a URL
 * v If I type in the cafe name and the first part of the website address, http:// or https:// and cafetest, then click on Submit the cursor moves to City and a message pops up saying Please fill in this field and nothing is submitted. The cafe website address field accepts http://cafetest or https://cafetest and doesn't ask for .com or dot something else. I have added the following text underneath the cafe website address which says the following. You can copy the website address of the cafe into this box
-* vi If I type in the cafe name, the website address and the city then click on submit a dialog box pops up. The message says Thank you for sending us details of the cafe and there is an OK button. If I click on OK the box disappears and the boxes that have been filled in are now empty
+* vi If I type in the cafe name, the website address and the city then click on submit a dialog box pops up. The message says Thank you for sending us details of the cafe and there is an OK button. If I click on OK, the box disappears and the boxes that have been filled in are now empty
 * vii The cafe name, website address and city are required fields, as I thought that would be the minimum required for me to find more about the cafe
-* viii The remaining fields are address, postcode and Do you have any additonal information that would be useful? are optional
-* ix If I type text in any of the fields I can cancel this request and clear the fields by clicking on the Cancel button
+* viii The remaining fields are address, postcode and Do you have any additional information that would be useful? are optional
+* ix If I type text in any of the fields, I can cancel this request and clear the fields by clicking on the Cancel button
 
 To help me make sure my website is responsive with different screen sizes, while I was building it I tested the website with Google Chrome's developer tools and changed the responsive screen size. I regularly checked this using the iPad, iPad Pro and various smartphone screen sizes from the Google Chrome developer tools drop down menu next to the screen size. When I found problems with the responsive screen size I made changes to the Bootstrap col sizes for medium and large screen sizes.
 
