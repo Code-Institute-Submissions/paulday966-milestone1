@@ -399,7 +399,7 @@ The image happy coffee came from [Pexels](https://www.pexels.com/photo/happy-cof
 
 The cafe image used for East Sussex cafes on the index.html page came from [Bluebells Tearoom gallery](https://www.bluebellstearoom.co.uk/gallery)
 
-The cafe image used for Kent cafes on the index.html page came from [Shoreham Aircarft mueseum teas](http://www.shoreham-aircraft-museum.co.uk/teas.htm)
+The cafe image used for Kent cafes on the index.html page came from [Shoreham Aircraft museum teas](http://www.shoreham-aircraft-museum.co.uk/teas.htm)
 
 The cafe image used for Surrey cafes on the index.html page came from [Cromwells Coffee House about us](https://cromwellcoffeehouse.co.uk/about-us/)
 
@@ -413,7 +413,7 @@ I copied the cafe image for the Bluebells Tearoom from [Bluebells Tearoom galler
 
 ##### Kent cafe images
 
-I copied the cafe image The Shoreham Aircraft Museum tearoom from [Shoreham Aircarft mueseum teas](http://www.shoreham-aircraft-museum.co.uk/teas.htm)
+I copied the cafe image The Shoreham Aircraft Museum tearoom from [Shoreham Aircraft museum teas](http://www.shoreham-aircraft-museum.co.uk/teas.htm)
 
 I copied the cafe image for the Steep Street Coffee House cafe from [Steep Street Coffee House Facebook photos page](https://www.facebook.com/pg/Steepstreet/photos/?tab=album&album_id=1029824603734471&ref=page_internal)
 
@@ -425,8 +425,7 @@ I copied the cafe image The Dabbling Duck cafe from [The Dabbling Duck about us]
 
 I copied the cafe image for The Headley Village Store and Tearoom from [The Headley Village Store and Tearoom Facebook photos page](https://www.facebook.com/pg/headleyvillagestores/photos/?tab=album&album_id=254500014918830&ref=page_internal)
 
-I copied the cafe image for Cromwells cafe from [Cromwells Coofee House about us](https://cromwellcoffeehouse.co.uk/about-us/)
-
+I copied the cafe image for Cromwells cafe from [Cromwells Coffee House about us](https://cromwellcoffeehouse.co.uk/about-us/)
 
 ### Acknowledgments
 
