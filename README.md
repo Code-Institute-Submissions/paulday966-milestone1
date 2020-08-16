@@ -61,7 +61,7 @@ At a glance cafe information with Google Maps and Contact Us details
 
 ![Image of at a glance information](https://github.com/paulday966/milestone1/blob/master/documentation/images/google-maps-address.jpg)
 
-I want the user to be able to signup to the monthly newsletter, so they can stay up to date with the latest cafe information. This would be done by entering their name and email address into the newsletter sign up fields on the contact us page. Then they would click on the submit button and a box pops up which thanks them for subscribing.
+I want the user to be able to sign up to the monthly newsletter, so they can stay up to date with the latest cafe information. This would be done by entering their name and email address into the newsletter sign up fields on the contact us page and clicking on the submit button. A box pops up which thanks them for subscribing with an OK button to click on to clear the box.
 
 Newsletter signup
 
