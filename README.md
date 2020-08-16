@@ -429,7 +429,7 @@ I copied the cafe image for Cromwells cafe from [Cromwells Coffee House about us
 
 ### Acknowledgments
 
-I got the inspiration for this project from cycling with the [Cheam and Morden CTC group](https://cheamandmorden.blogspot.com/) over many years. I found very few websites that had inforamtion about lots of different cafes in one place, and had to remember the cafe and website so I could look it up and get the details I needed.
+I got the inspiration for this project from cycling with the [Cheam and Morden CTC group](https://cheamandmorden.blogspot.com/) over many years. I found very few websites that had information about lots of different cafes in one place and had to remember the cafe and website so I could look it up and get the details I needed.
 
 I would like to thank my tutor Aaron Sinnott for helping me with this project, answering my questions and giving me advice and suggestions. It has been really useful and has helped me to think about each part and how I can improve it.
 
@@ -441,7 +441,7 @@ Sent the following email to the nine cafes used in this website asking for their
 
 Hi,
 
-I'm currently studying an online full stack developer course with Code Institute and Learning People. This course teaches me how to build websites and how to write programs. For my first project  I'm building a website with links and information about coffee shops.
+I'm currently studying an online full stack developer course with Code Institute and Learning People. This course teaches me how to build websites and how to write programs. For my first project I'm building a website with links and information about coffee shops.
 
 With your permission I would like to use the text and images from your website, so I can have a description of the place, what your offer, such as hot and cold food and an image to show what the place looks like.
 
