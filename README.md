@@ -129,7 +129,7 @@ HTML5 was used to build the pages and display the text and images on the screen.
 
 #### CSS3
 
-CSS3 was used to style the cafe images, descriptions, titles and lists on each page. This is to allow the users to view the images and text properly and clearly on large, medium and small screens.
+CSS3 was used to style the cafe images, descriptions, titles and lists on each page. and parts of the Bootstrap cards. This is to allow the users to view the images and text properly and clearly on large, medium and small screens.
 
 #### Bootstrap
 
@@ -138,9 +138,9 @@ CSS3 was used to style the cafe images, descriptions, titles and lists on each p
 Bootstrap was used to create and format the following:
 
 * The two sections of the contact us page by clicking on the copy html link and pasting the html on to the contact us page
-* It was used to add the column classes to the divs within rows so the content would change responsivley on large, medium and small screen sizes and be clear and   easy to read
-* To create the information cards that display for each cafe
-* To create the navigation menu at the top of the screen including the dropdown menu
+* It was used to add the column classes to the divs within rows so the content would change responsively on large, medium and small screen sizes and be clear and   easy to read
+* To create the information cards that display useful information for each cafe
+* To create the navigation menu at the top of each page including the dropdown menu
 
 #### Font Awesome
 
