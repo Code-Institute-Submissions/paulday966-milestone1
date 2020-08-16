@@ -42,13 +42,13 @@
 * [Ackowledgements](https://github.com/paulday966/milestone1#acknowledgments)
 
 
-The idea for this project came to me when I wanted to see a list of coffee shops in different towns and counties on one website. Unfortunately I found this difficult, as I had to do multiple searches to find what I wanted. On my weekend bike rides I have discovered lots of coffee shops, and some of them have a theme, which I have inscluded in this website.
+The idea for this project came to me when I wanted to see a list of coffee shops in different towns and counties on one website. Unfortunately, I found this difficult, as I had to do multiple searches to find what I wanted. On my weekend bike rides over the years I have discovered lots of coffee shops, and some of them have a theme, which I have included in this website.
 
 I wanted to change that by creating a website that is easy to use and has information and links to cafes in different towns and counties.
 
 ### UX
 
-This website is for both the young and old who want to find out information about cafes quickly and easily. When they come to the website they can choose between three counties, which are East Sussex, Kent and Surrey. After clicking on one of the options in the counties dropdown menu in the navigation menu they will see the cafes for that county with an image of the cafe, a description and information about the place split up into four information cards. Each information card provides easy to see and read infomation to help the user select a cafe. The first information card provides at a glance information, such as outdoor seating, public transport links and the food available. The next information card is how to find us, which has the cafe pinned on Google Maps. The map can be expanded to fill a browser tab or be opened in the Google Maps app. The next information card contains the opening hours and the final information card contains the contact us detials. This includes the address, phone number, email address and website link.
+This website is for both the young and old who want to find out about cafes quickly and easily. When they visit the website, they can choose between three counties, which are East Sussex, Kent and Surrey. After clicking on one of the three options in the counties dropdown menu in the navigation menu, they will see the cafes for that county. Each cafe has an image, a description and opening hours. Below this there are three clear and easy to read information cards. The first information card provides at a glance information, such as outdoor seating, public transport links and the food available. The second information card is how to find us, which has the cafe pinned on Google Maps. The map can be expanded to fill a browser tab or be opened in the Google Maps app. The third information card contains the contact us details, which includes the address, phone number, email address and website link.
 
 * As a user type, I want to perform an action, so that I can achieve a goal
 
