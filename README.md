@@ -371,7 +371,7 @@ I copied the description text, address, phone number and the email address for t
 
 I copied the description text, address, phone number and email address for Hanushka Coffee House from [Hanushka Coffee House](https://www.facebook.com/pg/Hanushka-Coffee-House-108537019250225/about/?ref=page_internal). I added these details to the Hanushka Coffee House cafe on the East Sussex cafe page.
 
-I copied the address, tearooms phone number and email address for Bluebells Tearoom from [Bluebells Tearoom](https://www.bluebellstearoom.co.uk/). I added these details to the Bluebells Tearoom cafe on the East Sussex cafe page. I created the desciption for this cafe myself
+I copied the address, tearooms phone number and email address for Bluebells Tearoom from [Bluebells Tearoom](https://www.bluebellstearoom.co.uk/). I added these details to the Bluebells Tearoom cafe on the East Sussex cafe page. I created the description for this cafe myself
 
 ##### Kent Cafes
 
