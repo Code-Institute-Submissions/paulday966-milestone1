@@ -103,7 +103,7 @@ New cafe request
 
 #### Existing features
 
-* Feature 1 - Location of the cafe using an embeded Google Map. The user can see at a glance where the cafe is and using the plus and minus buttons the map can be zoomed in or out. The user can click on the link View in larger map and Google Maps will open up in a new tab and give users the full Google Maps experience. If Google Maps in installed on the mobile device it will open up in that
+* Feature 1 - Location of the cafe using an embedded Google Map. The user can see at a glance where the cafe is and using the plus and minus buttons the map can be zoomed in or out. The user can click on the link View in larger map and the embedded map will open up in a new tab and give users the full Google Maps experience. If not, the map will open in the Google Maps app if it's installed
 
 * Feature 2 - Link to cafe website. The user can click on the link to open the website in a new tab and find out more details about the place
 
