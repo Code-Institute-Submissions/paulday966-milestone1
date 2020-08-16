@@ -361,9 +361,9 @@ There is no need to use external hosting for this project as GitHub Pages can ge
 
 #### Content
 
-The navigation menu for each page was copied from the mobile first Whiskey Drop mini project I created earlier in the course. This menu was exactly what I needed, so I changed all of the links and names of the links to the pages in my project and added in the contact page. As I didn't need the sign up section this was deleted.
+The navigation menu for each page was copied from the mobile first Whiskey Drop mini project I created earlier in the course. This menu was exactly what I needed, so I changed all of the links and names of the links to the pages in my project and added in the contact page. As I didn't need the sign-up section this was deleted. I also added a highlight when the cursor was over the menu options in the desktop view
 
-I copied the footer from the resume project created ealier in the course, then deleted the links to LinkedIn, Pinterest and YouTube. I changed the name from Social to Social Media and removed the uppercase and general-sub classes. I added my own class to the social media title of footer-heading and changed the social-links class to social-media-links. I deleted the download CV link as this wasn't needed and deleted the wording for the about section and added my own wording. I removed the uppercase and general-sub classes and added the footer-heading class, then I deleted the About title.
+I copied the footer from the resume project created earlier in the course, then deleted the links to LinkedIn, Pinterest and YouTube. I changed the name from Social to Social Media and removed the uppercase and general-sub classes. I added my own class to the social media title of footer-heading and changed the social-links class to social-media-links. I deleted the download CV link as this wasn't needed and deleted the wording for the about section and added my own wording. I removed the uppercase and general-sub classes and added the footer-heading class, then I deleted the About title.
 
 ##### East Sussex Cafes
 
