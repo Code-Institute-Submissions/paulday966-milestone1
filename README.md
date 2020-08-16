@@ -294,7 +294,7 @@ How the website looks on a large screen
 
 ![Image of how the website looks on a large screen](https://github.com/paulday966/milestone1/blob/master/documentation/images/desktop-view.jpg)
 
-How the wesbite looks on a medium screen
+How the website looks on a medium screen
 
 
 ![Image of how the website looks on a medium sized screen](https://github.com/paulday966/milestone1/blob/master/documentation/images/tablet-view.jpg)
