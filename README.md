@@ -113,13 +113,13 @@ New cafe request
 
 #### Features left to implement
 
-My first feature would be to add a photo gallery for each cafe. This would display images in a scrolling carousel of their cakes and inside and or outside of the cafe. The user would be able to click on each image to expand it, and scroll through as many of the photos as the wish and easily close it when they have finished.
+My first feature would be to add a photo gallery for each cafe. This would display images in a carousel of their cakes and inside and or outside of the cafe. The user would be able to click on each image to expand it and scroll through as many of the photos as the wish and easily close it when they have finished.
 
-The next feature would be a page which split up into three sections, and each county would have one. Each section would have descriptions, links and images for walks and places to visit near each cafe. The links for places to visit would take the user to the website for that place and the links for walks would take the user to different webites with walk ideas.
+The next feature would be a page that is split up into three sections, and each county would have one. Each section would have descriptions, links and images for walks and places to visit near each cafe. The links for places to visit would take the user to the website for that place and the links for walks would take the user to different webites with walk ideas.
 
 Another feature would have a page with a Google Map on it to show where all of the cafes are which could be used as another way to search.
 
-My final update would be to have all of the cafes and infomation stored in a database along with lots more cafes. The user would be able to search for a cafe based on search filters.
+My final update would be to have all of the cafes and information stored in a database along with lots more cafes. The user would be able to search for a cafe based on search criteria.
 
 ### Technologies used
 
